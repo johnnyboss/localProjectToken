@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="..\..\..\addons\ofxGui\src\button.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1673" topLine="0" />
+	</File>
+	<File name="..\..\..\addons\ofxGui\src\button.h" open="1" top="0" tabpos="9">
+		<Cursor position="884" topLine="0" />
+	</File>
+	<File name="..\..\..\addons\ofxGui\src\label.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="762" topLine="6" />
+	</File>
+	<File name="..\..\..\addons\ofxGui\src\panel.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2624" topLine="96" />
+	</File>
+	<File name="..\..\..\addons\ofxGui\src\panel.h" open="0" top="0" tabpos="0">
+		<Cursor position="911" topLine="18" />
+	</File>
+	<File name="..\..\..\addons\ofxTextSuite\src\ofxTextBlock.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="15872" topLine="399" />
+	</File>
+	<File name="..\..\..\addons\ofxTextSuite\src\ofxTextBlock.h" open="0" top="0" tabpos="8">
+		<Cursor position="1676" topLine="46" />
+	</File>
+	<File name="..\..\..\addons\ofxTextSuite\src\ofxTextSuite.h" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="16130" topLine="126" />
+	</File>
+	<File name="src\intro.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1677" topLine="0" />
+	</File>
+	<File name="src\intro.h" open="1" top="0" tabpos="2">
+		<Cursor position="744" topLine="0" />
+	</File>
+	<File name="src\main.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="158" topLine="0" />
+	</File>
+	<File name="src\question.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="15970" topLine="499" />
+	</File>
+	<File name="src\question.h" open="1" top="0" tabpos="3">
+		<Cursor position="516" topLine="10" />
+	</File>
+	<File name="src\testApp.cpp" open="1" top="1" tabpos="5">
+		<Cursor position="158" topLine="6" />
+	</File>
+	<File name="src\testApp.h" open="1" top="0" tabpos="6">
+		<Cursor position="660" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

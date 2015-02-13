@@ -1,0 +1,344 @@
+<QUIZ>
+	<TEMA>
+		<R>49</R>
+		<G>200</G>
+		<B>209</B>
+		<R>107</R>
+		<G>29</G>
+		<B>145</B>
+		
+		<ID>banho</ID>
+
+		<LEGENDA>Inox</LEGENDA>
+		<LEGENDA>Plástico</LEGENDA>
+		<LEGENDA>Energia renovável</LEGENDA>
+		<LEGENDA>Higiene oral</LEGENDA>
+		<LEGENDA>Prata</LEGENDA>
+		<LEGENDA>Água</LEGENDA>
+		<LEGENDA>Sistema excretor</LEGENDA>
+		<LEGENDA>Banho</LEGENDA>
+		<LEGENDA>Mármore</LEGENDA>
+		<LEGENDA>Sabão</LEGENDA>
+		<LEGENDA>Medicamento</LEGENDA>
+		<LEGENDA>Condensação</LEGENDA>
+		<LEGENDA>Stainless steel</LEGENDA>
+		<LEGENDA>Plastic</LEGENDA>
+		<LEGENDA>Renewable energy</LEGENDA>
+		<LEGENDA>Oral hygiene</LEGENDA>
+		<LEGENDA>Silver</LEGENDA>
+		<LEGENDA>Water</LEGENDA>
+		<LEGENDA>Excretory system</LEGENDA>
+		<LEGENDA>Bathing</LEGENDA>
+		<LEGENDA>Marble</LEGENDA>
+		<LEGENDA>Soap</LEGENDA>
+		<LEGENDA>Medication</LEGENDA>
+		<LEGENDA>Condensation</LEGENDA>
+	
+		<PERGUNTA>O aço inoxidável, utilizado nas torneiras é uma liga metálica
+constituída, essencialmente, por...</PERGUNTA>
+		<RESPOSTA>aço e cobre</RESPOSTA>	
+		<RESPOSTA>ferro, carbono e crómio</RESPOSTA>
+		<RESPOSTA>alumínio, estanho e crómio</RESPOSTA>
+		<QUESTION>Stainless steel, used in taps, is an alloy consisting essentially of...</QUESTION>
+		<ANSWER>steel and copper</ANSWER>
+		<ANSWER>iron, carbon and chromium</ANSWER>
+		<ANSWER>aluminum, tin and chromium</ANSWER>
+		<CERTA>2</CERTA>
+		<TEXTO>O aço inoxidável, vulgarmente designado por inox (do francês, iiiinoxydable), é uma
+liga artificial constituída por ferro, carbono e crómio, além de muitos outros metais,
+como o níquel, o titânio ou o tungsténio. A presença de pequenas quantidades de
+carbono funciona como endurecedor deste material, no entanto, acima de determinadas
+proporções pode torná-lo quebradiço. A adição de crómio ao aço previne a sua corrosão. O
+inox tem inúmeras aplicações, desde a aeronáutica aos eletrodomésticos.</TEXTO>
+		<TEXT>Stainless steel, also known as "inox" (from the French, iiiinoxydable) is an artificial alloy
+consisting of iron, carbon and chromium, as well as many other metals such as nickel,
+titanium or tungsten. The presence of small amounts of carbon functions as a hardener for
+this material. However, above certain proportions, it may also make it brittle. The addition
+of chromium to steel prevents its corrosion. Stainless steel has many applications, from
+aerospace to household appliances.</TEXT>
+
+		<PERGUNTA>Qual dos seguintes materiais é utilizado na produção do plástico
+de que é feita esta cortina de duche?</PERGUNTA>
+		<RESPOSTA>Poliestireno expandido</RESPOSTA>	
+		<RESPOSTA>Policloreto de vinilo</RESPOSTA>
+		<RESPOSTA>Poliestireno extrudido</RESPOSTA>
+		<QUESTION>Which of the following materials is used in the production of the
+plastic which this shower curtain is made of?</QUESTION>
+		<ANSWER>Expanded polystyrene</ANSWER>
+		<ANSWER>Polyvinyl chloride</ANSWER>
+		<ANSWER>Extruded polystyrene foam</ANSWER>
+		<CERTA>2</CERTA>
+		<TEXTO>O policloreto de vinilo (PVC) é uma macromolécula resultante da polimerização do
+cloreto de vinilo que, por sua vez, é obtido a partir do petróleo ou do gás natural e do
+sal de cozinha. Além destas matérias-primas, os plásticos podem ser produzidos a partir
+da celulose e do carvão. Estes materiais são muito versáteis e podem ser utilizados em
+diversas aplicações que vão desde a indústria alimentar e automóvel, até às aplicações
+médicas como, por exemplo, bolsas para o acondicionamento de sangue e plasma.</TEXTO>
+		<TEXT>Polyvinyl chloride (PVC) is a macromolecule resulting from the polymerization of vinyl
+chloride, which, in turn, is a by-product of petroleum or natural gas and kitchen salt.
+Besides these raw materials, plastics can be produced from cellulose and coal. These
+highly versatile materials can be used in several applications ranging from the food
+and automotive industry, to medical applications, such as packaging bags for blood and
+plasma.</TEXT>
+
+
+		<PERGUNTA>Qual das seguintes fontes de energia renovável pode ser utilizada
+para aquecer a água do nosso duche?</PERGUNTA>
+		<RESPOSTA>Carvão</RESPOSTA>	
+		<RESPOSTA>Solar</RESPOSTA>
+		<RESPOSTA>Petróleo</RESPOSTA>
+		<QUESTION>Which of the following renewable energy sources can be used to
+heat our shower water?</QUESTION>
+		<ANSWER>Coal</ANSWER>
+		<ANSWER>Solar</ANSWER>
+		<ANSWER>Petroleum</ANSWER>
+		<CERTA>2</CERTA>
+		<TEXTO>Já em 212 a.C., Arquimedes recorreu a espelhos metálicos côncavos, usados como
+coletores solares incidentes, para atacar os Romanos. A utilização da energia solar térmica
+pode, no entanto, ser bastante mais pacífica...! Atualmente, os sistemas solares térmicos
+são constituídos por coletores solares e um reservatório térmico. Os coletores captam a
+energia solar e convertem-na em energia térmica, por aumento da temperatura do fluído
+que circula no coletor que, por sua vez, aquece a água armazenada no reservatório para
+nosso consumo.</TEXTO>
+		<TEXT>As early as 212 BC, Archimedes made use of concave metal mirrors, used as incidental
+solar collectors, to attack the Romans. The use of solar thermal energy can, however, be
+much more peaceful...! Currently, solar thermal systems are comprised of solar collectors
+and a thermal reservoir. The collectors capture solar energy and convert it into thermal
+energy, by raising the temperature of the fluid that circulates in the collector which, in its
+turn, heats the water stored in the reservoir for our consumption.</TEXT>
+
+
+<PERGUNTA>Porque devemos lavar sempre os dentes após as refeições?</PERGUNTA>
+		<RESPOSTA>Porque em presença de açúcares, a placa bacteriana produz ácidos
+que desmineralizam o esmalte dos dentes</RESPOSTA>	
+		<RESPOSTA>Porque os açúcares removem a placa bacteriana que protege os
+nossos dentes</RESPOSTA>
+		<RESPOSTA>Porque se não removermos os açúcares, estes formam uma película
+que vai mineralizar, originando o tártaro</RESPOSTA>
+		<QUESTION>Why should we always brush our teeth after meals?</QUESTION>
+		<ANSWER>Because in the presence of sugars, the bacterial plaque produces
+acids that demineralise tooth enamel</ANSWER>
+		<ANSWER>Because sugars remove the bacterial plaque that protects our teeth</ANSWER>
+		<ANSWER>Because if we do not remove sugars, these will form a film which will
+mineralize, generating tartar</ANSWER>
+		<CERTA>1</CERTA>
+		<TEXTO>As bactérias proliferam na nossa boca. Para crescerem, usam a saliva e ingredientes da
+nossa dieta, formando a placa bacteriana. Em presença de hidratos de carbono (sobretudo
+açúcares), as bactérias produzem ácidos que vão desmineralizar os tecidos duros do dente
+(esmalte e dentina), provocando a sua deterioração e início das lesões de cárie. A principal
+função da higiene oral é remover esta placa bacteriana dos nossos dentes. Lavar os dentes
+após as refeições é uma prática que deve iniciar-se desde o primeiro dente do bebé.</TEXTO>
+		<TEXT>Bacteria proliferate in our mouths. In order to grow, they use saliva and ingredients from
+our diet, forming bacterial plaque. In the presence of carbohydrates (mainly sugars),
+bacteria produce acids which will demineralize the hard tissues of the tooth (enamel and
+dentin), causing their deterioration and triggering cavities. The main function of oral
+hygiene is to remove this bacterial plaque from our teeth. Brushing our teeth after meals is
+a practice that should begin since the baby's first tooth.</TEXT>
+
+<PERGUNTA>A prata é um dos metais utilizados no fabrico de espelhos. Quais
+destas matérias-primas se usam igualmente com este fim?</PERGUNTA>
+		<RESPOSTA>Alumínio e cloreto estanhoso</RESPOSTA>	
+		<RESPOSTA>Ardósia e mica</RESPOSTA>
+		<RESPOSTA>Sulfato de cálcio e amónia</RESPOSTA>
+		<QUESTION>Silver is one of the metals used in the production of mirrors.
+Which of these raw materials are also used for this purpose?</QUESTION>
+		<ANSWER>Aluminium and tin chloride</ANSWER>
+		<ANSWER>Slate and mica</ANSWER>
+		<ANSWER>Calcium sulphate and ammonia solution</ANSWER>
+		<CERTA>1</CERTA>
+		<TEXTO>Um espelho é uma superfície com um elevado índice de reflexão da luz. Possivelmente
+foi o fascínio causado pelo nosso reflexo na água que inspirou o desenvolvimento dos
+espelhos primitivos. Estes começaram por ser superfícies polidas de metais como o cobre,
+a prata ou o estanho. Atualmente, os espelhos comuns produzem-se depositando finas
+camadas de prata, alumínio e cloreto estanhoso (lll:SnCl:2:) sobre uma superfície de vidro
+polido. Esta combinação garante excelente reflexão, durabilidade e resistência à corrosão.</TEXTO>
+		<TEXT>A mirror is a surface with a high level of light reflection. Possibly, it was the fascination
+caused by our reflection in the water that inspired the development of primitive mirrors.
+These first began as polished surfaces of metals such as copper, silver or tin. Currently,
+common mirrors are produced by depositing thin layers of silver, aluminium and tin
+chloride (lll:SnCl:2:) on a polished glass surface. This combination ensures optimum reflection,
+durability and resistance to corrosion.</TEXT>
+
+<PERGUNTA>A água cobre cerca de 71% da superfície terrestre, mas
+apenas cerca de 2,5% desta é água doce. Qual dos seguintes
+reservatórios possui maior volume de água doce?</PERGUNTA>
+		<RESPOSTA>Lagos</RESPOSTA>	
+		<RESPOSTA>Aquíferos subterrâneos</RESPOSTA>
+		<RESPOSTA>Glaciares e calotes polares</RESPOSTA>
+		<QUESTION>Water covers about 71% of the land surface of the earth, but only
+about 2.5% of it is freshwater. Which of the following reservoirs
+holds a greater volume of freshwater?</QUESTION>
+		<ANSWER>Lakes</ANSWER>
+		<ANSWER>Aquifers</ANSWER>
+		<ANSWER>Glaciers and polar caps</ANSWER>
+		<CERTA>3</CERTA>
+		<TEXTO>Lagos e aquíferos subterrâneos são importantes reservatórios de água doce, mas os
+glaciares e calotes polares concentram no estado sólido a maior parte da água doce
+disponível no planeta. Os aquíferos subterrâneos (componente subterrânea do ciclo da
+água) constituem frequentemente a única fonte de água disponível para o abastecimento
+urbano, industrial e agrícola, assumindo por isso um papel primordial no desenvolvimento
+socioeconómico da humanidade.</TEXTO>
+		<TEXT>Lakes and aquifers are important reservoirs of freshwater, but the glaciers and polar
+caps concentrate in its solid state most of the freshwater available on the planet. Aquifers
+(groundwater component of the water cycle) are often the only source of water available
+for urban, industrial and agricultural water supply, therefore taking on a leading role in
+the socio-economic development of humankind.</TEXT>
+
+
+<PERGUNTA>O sistema excretor é responsável...</PERGUNTA>
+		<RESPOSTA>por excretar oxigénio para o sangue</RESPOSTA>	
+		<RESPOSTA>por excretar substâncias necessárias à função digestiva</RESPOSTA>
+		<RESPOSTA>pela eliminação de resíduos do organismo</RESPOSTA>
+		<QUESTION>The excretory system is responsible...</QUESTION>
+		<ANSWER>for excreting oxygen into the blood</ANSWER>
+		<ANSWER>for excreting substances necessary for the digestive function</ANSWER>
+		<ANSWER>for the disposal of body fluids and waste</ANSWER>
+		<CERTA>3</CERTA>
+		<TEXTO>O sistema excretor é responsável pela eliminação de resíduos que possam ser tóxicos para
+o nosso organismo ou que se encontrem em excesso, relativamente ao equilíbrio dinâmico
+do seu funcionamento. Nos humanos, este sistema é composto pela pele e pelo sistema
+urinário. A pele excreta suor através das glândulas sudoríparas, enquanto os órgãos do
+sistema urinário (dois rins, dois ureteres, uma bexiga e uma uretra) filtram o sangue,
+regulam o teor de água e sais minerais e eliminam, sob a forma de urina, os resíduos
+azotados que advêm do metabolismo celular.</TEXTO>
+		<TEXT>The excretory system is responsible for the disposal of waste that may be toxic to our
+body or in excess, relative to its dynamic balance. In humans, this system consists of the
+skin and the urinary system. The skin excretes sweat through sweat glands, while the
+organs of the urinary system (two kidneys, two ureters, bladder and urethra) filter the
+blood, regulating the water and mineral content and, in the form of urine, eliminating
+nitrogenous waste arising from cellular metabolism.</TEXT>
+
+
+<PERGUNTA>Sabe quantas vezes, em média, se tomava banho na Idade Média?</PERGUNTA>
+		<RESPOSTA>Não tomavam banho</RESPOSTA>	
+		<RESPOSTA>2 a 3 vezes por mês</RESPOSTA>
+		<RESPOSTA>2 a 3 vezes por ano</RESPOSTA>
+		<QUESTION>Do you know how many times, on average, people would bathe in
+the Middle Ages?</QUESTION>
+		<ANSWER>They did not bathe at all</ANSWER>
+		<ANSWER>2 to 3 times a month</ANSWER>
+		<ANSWER>2 to 3 times a year</ANSWER>
+		<CERTA>3</CERTA>
+		<TEXTO>No mundo greco-romano, o banho era uma prática social realizada em termas, local onde
+se cuidava do corpo. Com a queda do Império Romano, o banho entrou em desuso até
+ser considerado prejudicial. Acreditava-se que lavar o corpo facilitava a "entrada" de
+doenças. Na Idade Média, tomavam-se 2 ou 3 banhos por ano! O mau cheiro e a sujidade
+eram comuns e as doenças proliferavam. Só a partir do século XIX, com a água canalizada
+e desenvolvimento da indústria da higiene, o banho regular foi reintroduzido nos hábitos
+das pessoas.</TEXTO>
+		<TEXT>In the Greco-Roman world, bathing was a social practice held at spas, where people would
+look after their bodies. With the fall of the Roman Empire, bathing fell into disuse to the
+point it was considered harmful. It was believed that washing the body would facilitate
+the "entry" of diseases. In the Middle Ages, people would bathe 2 or 3 times a year! The
+stench and filth were common and diseases thrived amongst the population. Only since
+the nineteenth century, with piped water and the development of the hygiene industry,
+was regular bathing reintroduced in people's habits.</TEXT>
+
+
+<PERGUNTA>Em Estremoz, Pêro Pinheiro e Moleanos existem importantes
+pedreiras de mármores e de calcários. Apesar de terem uma
+composição comum (carbonatada), o que distingue estas rochas?</PERGUNTA>
+		<RESPOSTA>O mármore é uma rocha metamórfica e o calcário é uma rocha
+sedimentar</RESPOSTA>	
+		<RESPOSTA>O mármore é constituído por calcite e o calcário não</RESPOSTA>
+		<RESPOSTA>O mármore tem valor comercial e o calcário não</RESPOSTA>
+		<QUESTION>In Estremoz, Pêro Pinheiro and Moleanos, there are major marble
+and limestone quarries. Despite having similar composition
+(carbonated), these rocks are different because...</QUESTION>
+		<ANSWER>marble is a metamorphic rock and limestone is a sedimentary rock</ANSWER>
+		<ANSWER>marble is composed of calcite and limestone is not</ANSWER>
+		<ANSWER>marble has commercial value and limestone does not</ANSWER>
+		<CERTA>1</CERTA>
+		<TEXTO>Qualquer rocha carbonatada capaz de receber polimento é frequentemente classificada,
+comercialmente, como mármore. No entanto, embora mármores e calcários tenham uma
+origem comum, os primeiros formam-se por metamorfismo dos segundos. Os mármores
+comuns resultam da recristalização, a elevada pressão e temperatura, da calcite (lll:CaCO:3:) , o
+principal constituinte dos calcários. As rochas carbonatadas contêm fósseis de organismos
+marinhos que viveram no ambiente onde se depositaram os lodos carbonatados que lhes
+deram origem.</TEXTO>
+		<TEXT>Any carbonate rock capable of being polished is often commercially classified as marble.
+However, although marble and limestone have a common origin, the former is formed
+by the metamorphism of the latter. Common marbles result from the recrystallization,
+at high pressure and temperature, of calcite (lll:CaCO:3:), the major constituent of limestone.
+Carbonate rocks contain fossils of marine organisms that lived in the environment where
+the carbonate mud from which they originated was deposited.</TEXT>
+
+
+<PERGUNTA>Usamos sabão e sabonete para nos lavarmos. Mas sabe de que são
+feitos estes preciosos auxiliares da nossa higiene?</PERGUNTA>
+		<RESPOSTA>Gorduras</RESPOSTA>	
+		<RESPOSTA>Proteínas</RESPOSTA>
+		<RESPOSTA>Hidratos de carbono</RESPOSTA>
+		<QUESTION>We use soap and bath soap in our personal hygiene. But do you
+know what these precious aids of our hygiene are made of?</QUESTION>
+		<ANSWER>Fats</ANSWER>
+		<ANSWER>Proteins</ANSWER>
+		<ANSWER>Carbohydrates</ANSWER>
+		<CERTA>1</CERTA>
+		<TEXTO>O sabão obtém-se por saponificação, uma reação entre uma gordura e um hidróxido
+de sódio ou de potássio. Os primeiros registos da produção de um material semelhante
+ao sabão remontam a 2800 a.C., na Babilónia, onde os habitantes já ferviam gordura
+animal juntamente com cinzas para tratamento de feridas e produção de penteados
+artísticos. Atualmente, o sabão é obtido a partir de gordura animal ou de óleos de origem
+vegetal, como o algodão, enquanto o sabonete é produzido à base de glicerina, perfumes e
+corantes.</TEXTO>
+		<TEXT>Soap is obtained by saponification, i.e., a reaction between a fat and a sodium or potassium
+hydroxide. The first records of the production of a material similar to soap date back to
+2800 BC, in Babylon, where the inhabitants already boiled animal fat along with ashes
+for treating wounds and producing artistic hairstyles. Currently, soap is obtained from
+animal fat or vegetable oils, such as cotton, while bath soap is produced based on glycerin,
+perfumes and dyes.</TEXT>
+
+
+<PERGUNTA>Como atua um medicamento analgésico?</PERGUNTA>
+		<RESPOSTA>Atua diretamente no fluxo sanguíneo</RESPOSTA>	
+		<RESPOSTA>Atua ao nível do sistema nervoso</RESPOSTA>
+		<RESPOSTA>Atua ao nível do sistema linfático</RESPOSTA>
+		<QUESTION>How does an analgesic act?</QUESTION>
+		<ANSWER>It acts directly on blood flow</ANSWER>
+		<ANSWER>It acts at the level of the nervous system</ANSWER>
+		<ANSWER>It acts at the level of the lymphatic system</ANSWER>
+		<CERTA>2</CERTA>
+		<TEXTO>Os analgésicos são medicamentos que têm a função de aliviar a dor. O alívio causado por
+estes medicamentos realiza-se graças ao transporte da substância ativa até às células
+nervosas específicas da medula e do cérebro. Normalmente combina-se com os recetores
+opiáceos do cérebro e bloqueia a transmissão de estímulos de dor. O analgésico mais
+conhecido é o paracetamol que foi sintetizado pela primeira vez em 1878 a partir do
+p-nitrofenol, por Harmon Northrop Morse (1848 - 1920).</TEXTO>
+		<TEXT>Analgesics are drugs whose function is to relieve pain. The relief caused by these drugs is
+the result of the transport of the active substance to the specific nerve cells of the brain
+and the spinal cord. Typically, it combines with the opioid receivers in the brain and
+blocks the transmission of pain stimuli. The best-known analgesic is paracetamol, which
+was first synthesized in 1878 from p-nitrophenol, by Harmon Northrop Morse (1848 -
+1920).</TEXT>
+
+
+<PERGUNTA>Depois de um duche quente, a água escorre pelos azulejos da casa
+de banho porque...</PERGUNTA>
+		<RESPOSTA>condensa</RESPOSTA>	
+		<RESPOSTA>evapora</RESPOSTA>
+		<RESPOSTA>se mantém no estado líquido</RESPOSTA>
+		<QUESTION>After a hot shower, the water runs down the bathroom tiles
+because it...</QUESTION>
+		<ANSWER>condensates</ANSWER>
+		<ANSWER>evaporates</ANSWER>
+		<ANSWER>remains liquid</ANSWER>
+		<CERTA>1</CERTA>
+		<TEXTO>O fenómeno da condensação é a passagem do estado gasoso para o estado líquido. Trata-se de uma transformação física e não química, pois ocorre sem que se forme qualquer
+nova substância. No caso da água, a mudança do estado líquido para o estado gasoso
+pode ser observada na casa de banho ao tomar duche, pois quando o vapor de água,
+quente, contacta com superfícies frias, como as dos espelhos ou dos azulejos, arrefece
+bruscamente e condensa, liquefazendo-se em pequenas gotas de água que escorrem por
+aquelas superfícies.</TEXTO>
+		<TEXT>The condensation phenomenon consists of the passing from the gaseous to the liquid
+state. This is a physical transformation, and not chemical, as it occurs without the
+formation of any new substance. In the case of water, the change from liquid to gaseous
+state may be observed in the bathroom while taking a shower, because when the hot
+vapour comes into contact with cold surfaces, such as tiles or mirrors, it is abruptly cooled
+and condensates, liquefying into small water droplets that flow down those surfaces.</TEXT>
+
+
+
+	
+
+</QUIZ>

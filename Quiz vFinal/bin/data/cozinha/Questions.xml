@@ -1,0 +1,326 @@
+<QUIZ>
+	<TEMA>
+		<R>255</R>
+		<G>248</G>
+		<B>232</B>
+		<R>0</R>
+		<G>0</G>
+		<B>0</B>
+		<ID>cozinha</ID>
+		<LEGENDA>Gás natural</LEGENDA>
+		<LEGENDA>HFC/CFC</LEGENDA>
+		<LEGENDA>Micro-ondas</LEGENDA>
+		<LEGENDA>Bolor</LEGENDA>
+		<LEGENDA>Folha de Flandres</LEGENDA>
+		<LEGENDA>Argila</LEGENDA>
+		<LEGENDA>Fome</LEGENDA>
+		<LEGENDA>Detergente</LEGENDA>
+		<LEGENDA>Farinha</LEGENDA>
+		<LEGENDA>Queijo</LEGENDA>
+		<LEGENDA>Cozinhar</LEGENDA>
+		<LEGENDA>Reciclagem</LEGENDA>
+		<LEGENDA>Natural gas</LEGENDA>
+		<LEGENDA>HFC/CFC</LEGENDA>
+		<LEGENDA>Microwave</LEGENDA>
+		<LEGENDA>Mould</LEGENDA>
+		<LEGENDA>Tinplate</LEGENDA>
+		<LEGENDA>Clay</LEGENDA>
+		<LEGENDA>Hunger</LEGENDA>
+		<LEGENDA>Detergent</LEGENDA>
+		<LEGENDA>Flour</LEGENDA>
+		<LEGENDA>Cheese</LEGENDA>
+		<LEGENDA>Cooking</LEGENDA>
+		<LEGENDA>Recycling</LEGENDA>
+	
+		<PERGUNTA>   O gás natural é maioritariamente composto por...</PERGUNTA>
+		<QUESTION> Natural gas is mainly composed of...</QUESTION>
+		<RESPOSTA>propano</RESPOSTA>	
+		<ANSWER>propane</ANSWER>
+		<RESPOSTA>metano</RESPOSTA>
+		<ANSWER>methane</ANSWER>
+		<RESPOSTA>hidrogénio</RESPOSTA>
+		<ANSWER>hydrogen</ANSWER>
+		<CERTA>2</CERTA>
+		<TEXTO>O gás natural é uma mistura complexa de hidrocarbonetos gasosos, cujo componente
+predominante é o metano (CH4). Trata-se de um recurso energético fóssil que ocorre
+em reservatórios subterrâneos, frequentemente associado ao petróleo, quer em jazidas
+terrestres, quer no mar. Forma-se naturalmente por degradação anaeróbia (ausência de
+oxigénio) da matéria orgânica, por decomposição de carvão a elevadas temperaturas e
+pressões ou por alteração térmica dos hidrocarbonetos líquidos.</TEXTO>
+		<TEXT>Natural gas is a complex mixture of gaseous hydrocarbons, whose predominant
+component is methane (CH4). It is a fossil energy resource, which occurs in underground
+reservoirs, often associated with petroleum, both in land and offshore reservoirs. Naturally
+formed by the anaerobic degradation (absence of oxygen) of organic matter, by the
+decomposition of coal at high temperatures and pressures or by thermal alteration of
+liquid hydrocarbons.</TEXT>
+
+
+	<PERGUNTA>   Os clorofluorcarbonetos (CFCs), utilizados no seu frigorífico para
+refrigeração, são também designados por...</PERGUNTA>
+		<QUESTION>   Chlorofluorocarbons (CFCs), which are used in your refrigerator
+for cooling, are also called...</QUESTION>
+		<RESPOSTA>xénons</RESPOSTA>	
+		<ANSWER>xenons</ANSWER>
+		<RESPOSTA>Freons</RESPOSTA>
+		<ANSWER>Freons</ANSWER>
+		<RESPOSTA>néons</RESPOSTA>
+		<ANSWER>neons</ANSWER>
+		<CERTA>2</CERTA>
+		<TEXTO>Os clorofluorcarbonetos, ou Freons (nome comercial), foram sintetizados pela primeira
+vez por Thomas Migdley, em 1928. A sua produção usa o petróleo como matéria-prima, o
+que os tornou uma alternativa vantajosa relativamente aos refrigerantes utilizados até à
+data, como o dióxido de enxofre e amónia. No entanto, quando libertados para a atmosfera
+acumulam-se na estratosfera, contribuindo para a destruição da camada de ozono que nos
+protege do excesso de radiação UV. Têm vindo a ser substituídos por outros compostos
+menos prejudiciais (HFCs - hidroflurocarbonetos) ao nosso planeta.</TEXTO>
+		<TEXT>Chlorofluorocarbons, or Freons (trade name), were first synthesized by Thomas Migdley,
+in 1928. Their production uses petroleum as raw material, which made them an attractive
+alternative to the compounds used to date, such as sulphur dioxide and ammonia solution.
+However, when released into the atmosphere, they accumulate in the stratosphere and
+contribute to the destruction of the ozone layer that protects us from excess UV radiation.
+They have been gradually replaced by other compounds (HFCs - hydrofluorocarbons), which are less harmful to
+our planet.</TEXT>
+
+
+	<PERGUNTA>   Se cobrirmos, completamente, um alimento com sal no micro-ondas, o que acontece?</PERGUNTA>
+		<QUESTION>   If we completely cover a food item with salt in the microwave,
+what happens?</QUESTION>
+		<RESPOSTA>O alimento fica demasiado salgado</RESPOSTA>	
+		<ANSWER>The food item gets too salty</ANSWER>
+		<RESPOSTA>O alimento coze mais lentamente e com a quantidade de sal suficiente</RESPOSTA>
+		<ANSWER>The food item cooks more slowly and with the sufficient amount of
+salt</ANSWER>
+		<RESPOSTA>O alimento fica esturricado</RESPOSTA>
+		<ANSWER>The food item gets burned</ANSWER>
+		<CERTA>2</CERTA>
+		<TEXTO>A camada de sal colocada sobre o alimento funciona como um escudo que dificulta a penetração
+das micro-ondas produzidas. Estas ondas eletromagnéticas são responsáveis pela agitação das
+moléculas de água constituintes dos alimentos. A vibração promovida nas moléculas de água liberta
+calor, cozinhando assim os alimentos. Como o sal, geralmente, é um bom condutor elétrico, este
+escudo vai funcionar como uma gaiola de Faraday, em que a energia se concentra na superfície,
+isolando o interior do alimento que assim é cozinhado mais lentamente.</TEXTO>
+		<TEXT>The salt layer placed over the food acts as a shield that obstructs the penetration of the microwaves
+produced. These electromagnetic waves are responsible for the agitation of the water molecules
+in food items. The vibration caused in the water molecules releases heat, thereby cooking the food
+items. As salt is usually a good electrical conductor, this shield will act as a Faraday cage, where the
+energy is concentrated at the surface, while insulating the interior of the food item which is thus
+cooked more slowly.</TEXT>
+
+
+	<PERGUNTA>   A descoberta da penicilina por Alexander Fleming, em 1928, foi
+um dos acontecimentos mais importantes na história da ciência.
+Que espécie de bolor produz este antibiótico?</PERGUNTA>
+		<QUESTION> The discovery of penicillin by Alexander Fleming in 1928 was
+one of the most important events in the history of science. What
+mould species produces this antibiotic?</QUESTION>
+		<RESPOSTA>iiiPenicillium iiimarneffei</RESPOSTA>	
+		<ANSWER>iiiPenicillium iiimarneffei</ANSWER>
+		<RESPOSTA>iiiPenicillium iiiroqueforti</RESPOSTA>
+		<ANSWER>iiiPenicillium iiiroqueforti</ANSWER>
+		<RESPOSTA>iiiPenicillium iiichrysogenum</RESPOSTA>
+		<ANSWER>iiiPenicillium iiichrysogenum</ANSWER>
+		<CERTA>3</CERTA>
+		<TEXTO>Os bolores são fungos filamentosos que podem crescer sobre o mais variado leque de
+substratos, como fruta, pão ou madeira. Alguns são prejudiciais à saúde humana, como o
+iiiPenicillium iiimarneffei, mas outros podem ser utilizados na confeção de alimentos, como
+o iiiPenicillium iiiroqueforti na produção de queijo, ou de antibióticos, como é o caso da
+famosa penicilina. Descoberta por Alexander Fleming em 1928, foi inicialmente produzida
+comercialmente a partir do iiiPenicillium iiichrysogenum.</TEXTO>
+		<TEXT>Moulds are filamentous fungi that can grow on the most varied range of substrates,
+such as fruit, bread or wood. Some are harmful to human health, such as the iiiPenicillium
+iiimarneffei, but others may be used in food processing, such as the iiiPenicillium iiiroqueforti,
+which is used in cheese production, or in antibiotics, as is the case of the famous penicillin.
+Discovered by Alexander Fleming in 1928, it was first produced commercially from the
+iiiPenicillium iiichrysogenum.</TEXT>
+
+
+	<PERGUNTA>   O que é a folha de Flandres de que é feita a maior parte das latas
+que usamos?</PERGUNTA>
+		<QUESTION> What is the tinplate that is used in most of the cans we use?</QUESTION>
+		<RESPOSTA>Uma folha de aço revestida por estanho</RESPOSTA>	
+		<ANSWER>A steel sheet coated with tin</ANSWER>
+		<RESPOSTA>Uma folha de aço revestida por cobre</RESPOSTA>
+		<ANSWER>A tin sheet coated with copper</ANSWER>
+		<RESPOSTA>Uma folha de alumínio sem revestimento</RESPOSTA>
+		<ANSWER>An uncoated tin sheet</ANSWER>
+		<CERTA>1</CERTA>
+		<TEXTO>A folha de Flandres consiste numa chapa de aço revestida eletroliticamente por uma
+fina camada de estanho. Possui elevado brilho metálico e excelentes propriedades de
+soldabilidade e resistência à corrosão. Teve origem em oficinas da Boémia e da Saxónia, no
+século XIII, e foi exportada para toda a Europa, nos séculos seguintes, a partir da Flandres.
+É muito utilizada, por exemplo, no fabrico de recipientes (latas para alimentos e bebidas)
+ou de peças para máquinas elétricas.</TEXTO>
+		<TEXT>The tinplate consists of a steel sheet electroplated with a coat of a thin layer of tin. It has
+high metallic luster and excellent properties of weldability and resistance to corrosion.
+It was first produced in workshops in Bohemia and Saxony, in the thirteenth century,
+and was exported throughout Europe in the following centuries from Flanders. It is used,
+for example, in the manufacture of containers (cans for food and beverages) or parts for
+electric machinery.</TEXT>
+
+
+	<PERGUNTA>   Quais destas aplicações constituem utilizações possíveis para os
+minerais das argilas?</PERGUNTA>
+		<QUESTION> Which of these applications constitute possible uses for clay
+minerals?</QUESTION>
+		<RESPOSTA>Azulejos, cerâmica e máscaras faciais</RESPOSTA>	
+		<ANSWER>Tiles, pottery and face masks</ANSWER>
+		<RESPOSTA>Azulejos, papel e plástico</RESPOSTA>
+		<ANSWER>Tiles, paper and plastic</ANSWER>
+		<RESPOSTA>Azulejos, parafusos e medicamentos</RESPOSTA>
+		<ANSWER>Tiles, bolts and medication</ANSWER>
+		<CERTA>1</CERTA>
+		<TEXTO>Os minerais das argilas são silicatos hidratados bastante comuns, com estrutura em folhas
+e dimensão inferior a 4µm (4 milésimas de milímetro). Os vários "barros" consistem em
+diferentes misturas de argilas. A sua plasticidade permite moldá-los com formas variadas.
+Quando "cozidos" a elevadas temperaturas (> 800°C) desidratam, tornando-se rígidos,
+sendo por isso muito adequados no fabrico de azulejos, tijolos e telhas ou em cerâmica.
+É a sua plasticidade e capacidade de absorção de água que permite usá-los em máscaras
+faciais.</TEXTO>
+		<TEXT>Clay minerals are quite common hydrated silicates, with a sheet structure and smaller
+than 4µm (4 thousandths of a millimetre). The various "muds" consist of different
+mixtures of clays. Its plasticity allows moulding them in various shapes. Once "baked" at
+high temperatures (> 800°C), they dehydrate and become rigid, thus being highly suitable
+for the manufacture of tiles, bricks or in pottery. It is its plasticity and ability to absorb
+water that allows using them for face masks.</TEXT>
+
+
+	<PERGUNTA>   Qual das seguintes regiões do cérebro é responsável pela
+sensação de fome?</PERGUNTA>
+		<QUESTION> Which of the following areas of the brain is responsible for the
+sense of hunger?</QUESTION>
+		<RESPOSTA>Hipotálamo</RESPOSTA>	
+		<ANSWER>Hypothalamus</ANSWER>
+		<RESPOSTA>Cerebelo</RESPOSTA>
+		<ANSWER>Cerebellum</ANSWER>
+		<RESPOSTA>Córtex motor</RESPOSTA>
+		<ANSWER>Motor cortex</ANSWER>
+		<CERTA>1</CERTA>
+		<TEXTO>O centro da fome encontra-se no cérebro, numa região denominada hipotálamo. Temos
+fome quando o nível de glicose no sangue diminui, o hipotálamo é informado e envia a
+resposta para o sistema digestivo. Saliva e suco gástrico são produzidos, estimulando
+movimentos peristálticos. Estas contrações musculares agitam o líquido e o ar, originando
+o roncar na barriga que associamos à fome. A sensação de saciedade ocorre quando o
+estômago fica cheio e os nutrientes dos alimentos passam para o sangue, enviando novo
+sinal ao hipotálamo.</TEXTO>
+		<TEXT>The hunger centre is in the brain, in an area known as the hypothalamus. We are hungry
+when the glucose level in the blood decreases. The hypothalamus is then informed and
+sends the response to the digestive system. Saliva and gastric juices are produced, thus
+stimulating peristalsis. These muscular twitches shake the liquid and the air, causing the
+growling in the belly that we associate with hunger. The sense of satiety occurs when
+the stomach is full and food nutrients pass into the blood, sending a new signal to the
+hypothalamus.</TEXT>
+
+
+	<PERGUNTA>   Tenho a roupa toda suja, vou utilizar um detergente para...</PERGUNTA>
+		<QUESTION> My clothes are filthy, so I am going to use a detergent to...</QUESTION>
+		<RESPOSTA>fazer espuma</RESPOSTA>	
+		<ANSWER>lather</ANSWER>
+		<RESPOSTA>perfumar a roupa suja</RESPOSTA>
+		<ANSWER>give a nice scent to the dirty laundry</ANSWER>
+		<RESPOSTA>se associar à água e, em conjunto, eliminarem a sujidade</RESPOSTA>
+		<ANSWER>together with water, eliminate dirt</ANSWER>
+		<CERTA>3</CERTA>
+		<TEXTO>Os detergentes (do latim, iiidetegere = limpar) são substâncias solúveis em água que
+contribuem para eliminar a sujidade (gordura, fruta, terra, ferrugem, etc.). As moléculas
+de detergente têm, simultaneamente, a capacidade de se ligarem às moléculas ou iões
+dos produtos que constituem sujidade e às moléculas de água, assegurando a dissolução
+e dispersão da sujidade. Os detergentes são compostos sintéticos produzidos a partir do
+petróleo e começaram a ser produzidos em grande escala a partir da 2ª Guerra Mundial.</TEXTO>
+		<TEXT>Detergents (from the Latin, iiidetegere = to clean) are water-soluble substances, which
+contribute to eliminate filth (fat, fruit, dirt, rust, etc.). The detergent molecules have both
+the ability to bind to the molecules or ions of soiling products and to water molecules,
+ensuring the dissolution and dispersion of dirtiness. Detergents are synthetic compounds
+produced from oil and were first produced on a large scale in the World War II.</TEXT>
+
+
+	<PERGUNTA>   De onde provém a farinha?</PERGUNTA>
+		<QUESTION> Where does the flour comes from?</QUESTION>
+		<RESPOSTA>Do farinheiro</RESPOSTA>	
+		<ANSWER>From the flour tree</ANSWER>
+		<RESPOSTA>De Faro</RESPOSTA>
+		<ANSWER>From Faro (city)</ANSWER>
+		<RESPOSTA>De cereais ou outras partes vegetais 	moídas finas</RESPOSTA>
+		<ANSWER>From milled grain or other vegetable parts</ANSWER>
+		<CERTA>3</CERTA>
+		<TEXTO>A farinha é um pó desidratado, rico em amido, obtido a partir de cereais moídos, como o trigo, o milho e a aveia,
+ou de outras partes vegetais, como a raiz de mandioca.
+A moagem dos cereais permite que as partes constituintes
+da semente sejam separadas e reduzidas a partículas
+pequenas. A farinha produzida é o ingrediente básico do
+pão, biscoitos, massas e muitos outros produtos alimentícios.
+Pode ser integral, se o grão inteiro for moído, ou refinada caso seja retirada a
+casca do grão.</TEXTO>
+		<TEXT>Flour is a dehydrated powder, rich in starch, obtained from milled cereals, such as wheat,
+maize and oat, or other plants such as roots of cassava. The grinding of cereals separates
+the constituent parts of the seed and reduces them to small particles. The flour produced
+is the basic ingredient of bread, cookies, pasta and many other food items. It may be
+whole-grain, if the grain is milled, or refined, if the husk of the grain is removed.</TEXT>
+
+<PERGUNTA>   Qual das seguintes plantas se utiliza na transformação do leite em
+queijo?</PERGUNTA>
+		<QUESTION> Which of the following plants is used in turning milk into cheese?</QUESTION>
+		<RESPOSTA>Papoila</RESPOSTA>	
+		<ANSWER>Poppy</ANSWER>
+		<RESPOSTA>Cardo</RESPOSTA>
+		<ANSWER>Thistle</ANSWER>
+		<RESPOSTA>Poejo</RESPOSTA>
+		<ANSWER>Pennyroyal</ANSWER>
+		<CERTA>2</CERTA>
+		<TEXTO>O fabrico do queijo surgiu como forma de prolongar a conservação do leite. A sua
+produção utiliza bactérias, enzimas e ácidos formados naturalmente para solidificar as
+proteínas e a gordura do leite e conservá-las. A coagulação do leite resulta da intervenção
+de agentes coagulantes de origem animal (como enzimas digestivas de vitelo ou borrego),
+de origem vegetal (como a flor de cardo iiiCynara iiicardunculus, utilizada nos queijos de
+ovelha portugueses) ou de origem microbiana (iiiMucor iiimiehei e iiiM. iiipusillus).</TEXTO>
+		<TEXT>The production of cheese emerged as a way to extend the preservation of milk. Its
+production uses bacteria, enzymes and acids naturally formed to solidify the proteins and
+milk fat while preserving them. The coagulation of milk results from the intervention of
+coagulating agents of animal origin (such as calf or lamb digestive enzymes), plant origin
+(such as the thistle flower iiiCynara iiicardunculus, used in Portuguese sheep cheeses) or
+microbial origin (iiiMucor iiimiehei and iiiM. iiipusillus).</TEXT>
+
+	
+<PERGUNTA>Cozer, fritar, assar, grelhar... o que acontece afinal aos alimentos quando os cozinhamos?</PERGUNTA>
+<QUESTION> Baking, frying, roasting, grilling...what happens to food items when they are cooked?</QUESTION>
+<RESPOSTA>O seu aspeto é alterado mas os componentes que os constituem não sofrem qualquer transformação ao nível físico e químico</RESPOSTA>	
+<ANSWER>Their appearance is changed but the components that constitute them do not undergo any change on the physical and chemical levels</ANSWER>
+<RESPOSTA>Os componentes que os constituem sofrem transformações físicas mas não ocorrem alterações ao nível químico</RESPOSTA>
+<ANSWER>The components that constitute them undergo physical changes, but no chemical changes occur</ANSWER>
+<RESPOSTA>Os componentes que os constituem sofrem diversas transformações físicas e químicas</RESPOSTA>
+<ANSWER>The components that constitute them undergo various physical and chemical transformations</ANSWER>
+<CERTA>3</CERTA>
+<TEXTO>O Homem é a única espécie que cozinha a sua comida. Cozinhamos  para tornar os alimentos mais digeríveis e fáceis de mastigar, para melhorar o seu sabor e aparência e para eliminar os micro-organismos patogénicos que possam conter, tornando-os mais inócuos. Os alimentos contêm diversos compostos químicos que, ao serem cozinhados, reagem entre si, sofrendo um conjunto de transformações físicas e químicas. Podemos mesmo dizer que a nossa cozinha funciona como um verdadeiro laboratório!</TEXTO>
+<TEXT>Man is the only species that cooks its food. We cook to make food more digestible and easy to chew, to improve its taste and appearance and to eliminate the pathogenic microorganisms which it may contain, making food items more likely to be harmless. Food
+items contain several chemical compounds which, when cooked, react among themselves, undergoing a series of physical and chemical transformations. We can even say that our kitchen works like a genuine laboratory!</TEXT>
+
+
+	<PERGUNTA>   Se uma embalagem iiiTetra iiiPak é constituída maioritariamente por
+cartão, porque a devemos colocar no ecoponto amarelo, referente
+ao plástico e metal?</PERGUNTA>
+		<QUESTION> If a iiiTetra iiiPak package consists mostly of cardboard, why should
+we place it in the yellow recycling bin, which refers to plastic and
+metal?</QUESTION>
+		<RESPOSTA>Porque o contentor amarelo é maior que o azul</RESPOSTA>	
+		<ANSWER>Because the yellow container is bigger than the blue one</ANSWER>
+		<RESPOSTA>Para simplificar o processo de gestão dos resíduos</RESPOSTA>
+		<ANSWER>To simplify the process of waste management</ANSWER>
+		<RESPOSTA>Porque é uma tradição muito antiga</RESPOSTA>
+		<ANSWER>Because it is a very old tradition</ANSWER>
+		<CERTA>2</CERTA>
+		<TEXTO>O ecoponto é o conjunto de três contentores utilizados para a recolha seletiva de
+embalagens usadas. Os contentores verde e azul só recebem vidro e papel/cartão,
+respetivamente. Os materiais aí recolhidos são armazenados ou enfardados e depois
+transportados para recicladores. Ao serem colocadas no ecoponto amarelo, as embalagens
+iiiTetra iiiPak, que são constituídas por vários materiais, passam por uma triagem mais
+elaborada, manual e mecânica, sendo separadas do plástico e do metal em fardos
+específicos que são depois encaminhados para reciclagem.</TEXTO>
+		<TEXT>The recycling point is the set of three recycle containers used for the selective collection
+of used packaging. Green and blue containers only receive glass and paper/cardboard,
+respectively. The materials collected are stored or baled and then shipped to recyclers.
+By being placed in the yellow recycle bin, iiiTetra iiiPak packages, which consist of various
+materials, undergo a more elaborate manual and mechanical screening, thus being
+separated from plastic and metal in specific bales which are then sent for recycling.</TEXT>
+
+	
+
+</QUIZ>

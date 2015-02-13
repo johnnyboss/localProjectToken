@@ -1,0 +1,330 @@
+<QUIZ>
+	<TEMA>
+		<R>229</R>
+		<G>40</G>
+		<B>121</B>
+		<R>138</R>
+		<G>196</G>
+		<B>83</B>
+		<ID>sala</ID>
+		<LEGENDA>Papel</LEGENDA>
+		<LEGENDA>Pó</LEGENDA>
+		<LEGENDA>Televisão</LEGENDA>
+		<LEGENDA>Telefone</LEGENDA>
+		<LEGENDA>Madeira</LEGENDA>
+		<LEGENDA>Tinta</LEGENDA>
+		<LEGENDA>Rádio</LEGENDA>
+		<LEGENDA>Lâmpada</LEGENDA>
+		<LEGENDA>Espuma</LEGENDA>
+		<LEGENDA>Seda</LEGENDA>
+		<LEGENDA>Fadiga</LEGENDA>
+		<LEGENDA>Digestão</LEGENDA>
+		<LEGENDA>Paper</LEGENDA>
+		<LEGENDA>Dust</LEGENDA>
+		<LEGENDA>Television</LEGENDA>
+		<LEGENDA>Telephone</LEGENDA>
+		<LEGENDA>Wood</LEGENDA>
+		<LEGENDA>Paint</LEGENDA>
+		<LEGENDA>Radio</LEGENDA>
+		<LEGENDA>Lamp</LEGENDA>
+		<LEGENDA>Foam</LEGENDA>
+		<LEGENDA>Silk</LEGENDA>
+		<LEGENDA>Fatigue</LEGENDA>
+		<LEGENDA>Digestion</LEGENDA>
+	
+	
+		
+
+<PERGUNTA>Em Portugal, cada um de nós consome em média cerca de 200kg
+de papel por ano. Sabe qual é a principal matéria-prima utilizada
+no seu fabrico?</PERGUNTA>
+<RESPOSTA>Fibras vegetais</RESPOSTA>
+<RESPOSTA>Finas folhas de estuque</RESPOSTA>	
+<RESPOSTA>Fibras de nylon</RESPOSTA>	
+<CERTA>1</CERTA>
+<TEXTO>O papel é fabricado a partir de elementos fibrosos vegetais (troncos e folhas),
+designadamente do eucalipto (iiiEucalyptus iiiglobulus), de onde se retira a celulose. O fabrico
+de 200kg de papel implica em média o abate de 2 árvores! A polpa de celulose é obtida
+dissolvendo a substância que une as fibras de celulose, a lenhina. A pasta é então lavada,
+depurada e branqueada. Atualmente, o branqueamento recorre a compostos sem cloro,
+um elemento muito poluente, diminuindo assim o impacto eco-negativo desta indústria.</TEXTO>
+<QUESTION>In Portugal, each of us consumes on average about 200kg of
+paper per year. Do you know what is the main raw material used
+in its production?</QUESTION>
+<ANSWER>Plant fibres</ANSWER>
+<ANSWER>Thin sheets of stucco</ANSWER>
+<ANSWER>Nylon fibres</ANSWER>
+<TEXT>Paper is made from plant fibre elements (stems and leaves), namely eucalyptus
+(iiiEucalyptus iiiglobulus), where the cellulose is extracted from. The production of 200kg
+of paper involves, on average, the felling of 2 trees! The cellulose pulp is obtained by
+dissolving lignin, the substance that binds the cellulose fibres. The slurry is then washed,
+refined and bleached. Currently, the bleaching resorts to non-chlorine compounds, as
+chlorine is a highly polluting element, thus reducing the eco-negative impact of this
+industry.</TEXT>
+
+<PERGUNTA>O pó que cobre os nossos móveis, afinal é feito de quê?</PERGUNTA>
+<RESPOSTA>Apenas por partículas finas de talco</RESPOSTA>
+<RESPOSTA>Apenas por partículas finas de arroz</RESPOSTA>
+<RESPOSTA>Por partículas finas com origens diversas</RESPOSTA>
+<CERTA>3</CERTA>
+<TEXTO>Parte significativa do pó doméstico é composta por quartzo, o mais abundante dos
+minerais que resistem à alteração química. A erosão das rochas e solos produz partículas
+muito finas transportadas em suspensão na atmosfera, onde se podem misturar com
+cinzas vulcânicas, sais marinhos, pólenes, poluição automóvel ou industrial, fibras de
+roupa e células mortas de plantas, de animais ou até da nossa pele. A cor e a constituição
+do pó variam muito de local para local e entre ambientes urbanos e rurais.</TEXTO>
+<QUESTION>The dust that covers our furniture, what is it made of, anyway?</QUESTION>
+<ANSWER>Only fine talc particles</ANSWER>
+<ANSWER>Only fine rice particles</ANSWER>
+<ANSWER>Fine particles with various origins</ANSWER>
+<TEXT>A significant part of household dust is composed of quartz, the most abundant of the
+minerals that are resistant to chemical change. The erosion of rocks and soils produces
+very fine airborne particles that can mix with volcanic ash, sea salt, pollen, auto or
+industrial pollution, clothing fibres and dead cells of plants, animals and even our skin. The
+colour and composition of dust vary greatly from location to location and between urban
+and rural environments.</TEXT>
+
+
+<PERGUNTA>Com a tecnologia OLED, que tipo de iluminação permanente
+passou a ter a televisão?</PERGUNTA>
+<RESPOSTA>Não tem iluminação permanente</RESPOSTA>
+<RESPOSTA>Tem painéis de iluminação LED nas laterais</RESPOSTA>
+<RESPOSTA>Tem um painel de iluminação LED na parte posterior</RESPOSTA>
+<CERTA>1</CERTA>
+<TEXTO>OLED (iiiOrganic iiilight-emitting iiidiode) é uma tecnologia, desenvolvida em 1980, que utiliza
+díodos orgânicos. Estes dispositivos são compostos por moléculas de carbono que
+emitem luz ao receberem uma carga elétrica. As grandes vantagens desta tecnologia são
+a possibilidade dos díodos serem impressos diretamente na superfície da tela, esta ser
+flexível e ainda o facto de, quando não polarizados, os díodos orgânicos não emitirem
+luz tornando a tela totalmente preta, o que diminui em muito o consumo energético da
+televisão.</TEXTO>
+<QUESTION>With the OLED technology, what kind of permanent lighting does
+television now have?</QUESTION>
+<ANSWER>It has no permanent lighting</ANSWER>
+<ANSWER>It has LED lighting panels on the sides</ANSWER>
+<ANSWER>It has a LED lighting panel at the back</ANSWER>
+<TEXT>OLED (Organic light-emitting diode) is a technology developed in 1980, which uses
+organic diodes. These devices are composed of carbon molecules that emit light when
+receiving an electrical charge. The advantages of this technology are the possibility of
+diodes being printed directly onto the surface of the screen, its flexibility and also the fact
+that, when non-polarized, the organic diodes do not emit light, making the screen totally
+black, which greatly reduces the television's energy consumption.</TEXT>
+
+
+<PERGUNTA>O moderno funcionamento de um telefone assenta em que
+sistema de marcação de dígitos?</PERGUNTA>
+<RESPOSTA>Sistema que emite som a curta distância</RESPOSTA>
+<RESPOSTA>Sistema de marcação por multifrequências</RESPOSTA>
+<RESPOSTA>Sinal emitido por banda larga</RESPOSTA>
+<CERTA>2</CERTA>
+<TEXTO>O telefone é um dos instrumentos de telecomunicações utilizado para transmitir sons
+através de sinais elétricos. Um terminal telefónico é constituído, essencialmente, por
+um microfone, um auscultador e uma unidade de marcação de dígitos. As técnicas
+mais vulgares para a marcação dos dígitos são: a marcação por impulsos e a marcação
+por multifrequências, sendo esta última a mais recente. Esta técnica baseia-se no uso
+de frequências (de um sinal elétrico) diferentes para cada dígito, que, por sua vez, é
+codificado numa combinação de duas frequências.</TEXTO>
+<QUESTION>The modern operation of a telephone is based on which digit
+dialling system?</QUESTION>
+<ANSWER>System that emits short distance sound</ANSWER>
+<ANSWER>Multifrequency dialling system</ANSWER>
+<ANSWER>Signal emitted by broadband</ANSWER>
+<TEXT>The telephone is one of the telecom instruments used to transmit sound via electrical
+signals. A telephone terminal essentially consists of a microphone, an earphone and a
+digit-dialling unit. The most common techniques for dialling digits are: pulse dialling and
+multifrequency dialling, the latter being the most recent. This technique is based on the
+use of frequencies (an electrical signal) that are different for each digit, which, in turn, is
+encoded in a combination of two frequencies.</TEXT>
+
+<PERGUNTA>A madeira é uma matéria-prima de excelência, constituída por...</PERGUNTA>
+<RESPOSTA>fibras sintéticas</RESPOSTA>
+<RESPOSTA>contraplacados e aglomerados</RESPOSTA>
+<RESPOSTA>fibras de celulose</RESPOSTA>
+<CERTA>3</CERTA>
+<TEXTO>A madeira é obtida a partir de tecidos de árvores perenes e lenhosas que crescem em
+diâmetro ano após ano, produzindo assim um material orgânico, sólido e de composição
+complexa. A madeira é constituída por fibras de celulose e hemicelulose, unidas por
+lenhina que confere sustentação mecânica à árvore. É um material naturalmente
+resistente e usualmente leve, sendo utilizado para fins estruturais e de sustentação de
+construções e, evidentemente, em carpintaria e marcenaria.</TEXTO>
+<QUESTION>Wood is a prime raw material, consisting of...</QUESTION>
+<ANSWER>synthetic fibres</ANSWER>
+<ANSWER>plywood and agglomerates</ANSWER>
+<ANSWER>cellulose fibres</ANSWER>
+<TEXT>Wood is obtained from tissues of perennial and ligneous trees that grow in diameter over
+the years, thereby producing an organic and solid material with a complex make-up. Wood
+consists of cellulose and hemicellulose fibres, bound by lignin, providing the tree with
+mechanical support. It is a naturally durable material and usually lightweight, used for
+structural support and construction, and, of course, in carpentry and woodworking.</TEXT>
+
+<PERGUNTA>Quais os componentes principais da maioria das tintas?</PERGUNTA>
+<RESPOSTA>Pigmentos, resina e solvente</RESPOSTA>
+<RESPOSTA>Pó de talco, guache e água</RESPOSTA>
+<RESPOSTA>Minerais, látex e pétalas</RESPOSTA>
+<CERTA>1</CERTA>
+<TEXTO>A utilização de tintas data de há pelo menos 42.000 anos, idade obtida nas mais antigas
+pinturas até hoje descobertas, nas grutas de Nerja, em Málaga, Espanha. Atualmente, a
+maioria das tintas é composta por 3 ingredientes principais: os pigmentos, provenientes
+de elementos cromóforos como o cádmio (vermelho, laranja), o crómio (amarelo, verde),
+o cobalto (azul, violeta) ou o carbono (preto); a resina, que confere aderência, liga os
+pigmentos e confere características específicas a cada tinta (brilho, durabilidade, etc.); e o
+solvente, que permite ajustar a viscosidade pretendida.</TEXTO>
+<QUESTION>What are the major components of most paints?</QUESTION>
+<ANSWER>Pigments, resin and solvent</ANSWER>
+<ANSWER>Talcum powder, gouache and water</ANSWER>
+<ANSWER>Minerals, latex and petals</ANSWER>
+<TEXT>The use of paint dates back at least 42,000 years, which is the age of the oldest paintings
+ever discovered, in the Nerja caves, in Malaga, Spain. Currently, most paints are composed
+of three main ingredients: pigments, from chromophore elements such as cadmium (red,
+orange), chromium (yellow, green), cobalt (blue, violet) or carbon (black); resin, which
+gives adhesion, binds the pigments and confers specific features to each paint (gloss,
+durability, etc.); and the solvent, which allows adjusting the desired viscosity.</TEXT>
+
+<PERGUNTA>Quando sintonizamos uma estação de rádio que princípio físico
+estamos a utilizar?</PERGUNTA>
+<RESPOSTA>Princípio da Ressonância</RESPOSTA>
+<RESPOSTA>Princípio do Efeito Doppler</RESPOSTA>
+<RESPOSTA>Princípio Fundamental da Dinâmica</RESPOSTA>
+<CERTA>1</CERTA>
+<TEXTO>Primeiro, um transmissor obtém o som, codifica-o e transmite-o por meio de ondas rádio
+a um recetor que as captura através de uma antena. O sintonizador vai separar uma onda
+entre milhares de outras que a antena recebe, através do princípio da ressonância, ou seja,
+ressoam e amplificam uma frequência específica e ignoram todas as outras no ar. Depois
+de extrair o som da onda, através de um demodulador, o rádio amplifica o sinal extraído e
+envia-o para os amplificadores, onde finalmente se pode ouvir o som radiotransmitido.</TEXTO>
+<QUESTION>When we tune into a radio station, what physical principle are we
+using?</QUESTION>
+<ANSWER>The Principle of Resonance</ANSWER>
+<ANSWER>The Principle of Doppler Effect</ANSWER>
+<ANSWER>The Fundamental Principle of Dynamics</ANSWER>
+<TEXT>First, a transmitter obtains the sound, encodes it and broadcasts it via radio waves to a
+receiver that captures them through an antenna. The tuner will separate a wave among
+thousands of others that the antenna receives, through the principle of resonance, i.e.,
+they resonate and amplify a specific frequency and ignore all the others in the air. After
+extracting the sound from the wave through a demodulator, the radio amplifies the
+extracted signal and sends it to the amplifiers, where one may finally hear the radioed
+sound.</TEXT>
+
+<PERGUNTA>Quais os gases mais vulgarmente utilizados nas lâmpadas
+fluorescentes?</PERGUNTA>
+<RESPOSTA>Acetileno e oxigénio</RESPOSTA>
+<RESPOSTA>Árgon e vapor de mercúrio</RESPOSTA>
+<RESPOSTA>Hélio e radão</RESPOSTA>
+<CERTA>2</CERTA>
+<TEXTO>As lâmpadas fluorescentes são constituídas por um tubo de vidro revestido internamente
+por compostos fosfatados e preenchido com gases, como o árgon e o vapor de mercúrio.
+Nas suas extremidades existem elétrodos de tungsténio que, ao receberem eletricidade,
+emitem eletrões de um elétrodo para o outro, ionizando o árgon e criando um fluxo de
+corrente entre si. Os eletrões colidem com os átomos de mercúrio vaporizados e excitam-nos, originando raios ultravioleta que, por sua vez, ao atingirem a camada que reveste o
+interior do tubo, provocam o fenómeno de fluorescência.</TEXTO>
+<QUESTION>Which are the gases most commonly used in fluorescent lamps?</QUESTION>
+<ANSWER>Acetylene and oxygen</ANSWER>
+<ANSWER>Argon and mercury vapour</ANSWER>
+<ANSWER>Helium and radon</ANSWER>
+<TEXT>Fluorescent lamps comprise a glass tube internally coated with phosphate compounds
+and filled with gases such as argon and mercury vapour. At their ends, there are tungsten
+electrodes which, upon receiving electricity, emit electrons from one electrode to the
+other, ionizing the argon and thus creating a current flow among themselves. The
+electrons collide with the vaporized mercury atoms and excite them, giving rise to
+ultraviolet rays which, in turn, upon reaching the layer that coats the inner part of the
+tube, bring about the phenomenon of fluorescence.</TEXT>
+
+
+<PERGUNTA>O poliuretano é um dos principais constituintes das espumas dos
+nossos sofás. Este material é produzido a partir de...</PERGUNTA>
+<RESPOSTA>ureia</RESPOSTA>
+<RESPOSTA>petróleo</RESPOSTA>
+<RESPOSTA>carvão</RESPOSTA>
+<CERTA>2</CERTA>
+<TEXTO>O poliuretano (PU) é uma macromolécula que resulta da reação entre dois compostos
+químicos sintetizados a partir do petróleo. Este polímero (do grego, iiipoli = muitas e
+iiimeros = partes) foi desenvolvido por Otto Bayer (1902 - 1982) no início da 2ª Guerra
+Mundial, para ser utilizado em substituição da borracha. Para além das espumas, o PU
+é utilizado, por exemplo, em calçado, tintas, vernizes e isolantes térmicos. Sabia que se
+utilizaram poliuretanos na confeção dos dinossauros que vimos nos filmes iiiJurassic iiiPark?</TEXTO>
+<QUESTION>Polyurethane is a major constituent of the foam in our sofas. This
+material is produced from...</QUESTION>
+(object: sofa)
+<ANSWER>urea</ANSWER>
+<ANSWER>petroleum</ANSWER>
+<ANSWER>coal</ANSWER>
+<TEXT>Polyurethane (PU) is a macromolecule that results from the reaction between two
+chemical compounds synthesized from petroleum. This polymer (from the Greek iiipoli = many and iiimeros = parts) was developed by Otto Bayer (1902 - 1982) at the beginning
+of World War II, to be used instead of rubber. In addition to the foams, PU is used, for
+example, in footwear, paints, varnishes and thermal insulation. Did you know that
+polyurethanes were used in making the dinosaurs we saw in the iiiJurassic iiiPark movies?</TEXT>
+
+
+<PERGUNTA>Qual destes três animais produziu a seda de que é feita a
+almofada?</PERGUNTA>
+<RESPOSTA>iiiTrachurus iiitrachurus</RESPOSTA>
+<RESPOSTA>iiiCanis iiilupus</RESPOSTA>
+<RESPOSTA>iiiBombix iiimori</RESPOSTA>
+<CERTA>3</CERTA>
+<TEXTO>O bicho-da-seda da amoreira, iiiBombix iiimori (ordem Lepidoptera), contribui com 95%
+da produção mundial de seda. Na fase de lagarta, este fia a seda em seu redor e, 3 dias
+depois, o casulo fica completo. A lagarta converte-se em pupa e, ao fim de cerca de 10
+dias, transforma-se em borboleta, rompendo o casulo e quebrando o longo fio de seda. O
+processo de preparação dos fios de seda consiste, em suma, em desfazer todo o trabalho
+que a lagarta teve para formar o casulo, produzindo fios purificados e macios para a
+tecelagem.</TEXTO>
+<QUESTION>Which of these three animals produced the silk which the cushion
+is made of?</QUESTION>
+<ANSWER>iiiTrachurus iiitrachurus</ANSWER>
+<ANSWER>iiiCanis iiilupus</ANSWER>
+<ANSWER>iiiBombix iiimori</ANSWER>
+<TEXT>The mulberry silkworm, iiiBombix iiimori (of the Lepidoptera order), accounts for 95% of
+world production of silk. In its caterpillar stage, it spins the silk around itself and, three
+days later, the cocoon is complete. The caterpillar becomes a pupa and, after about 10
+days, it blossoms into a butterfly, breaking the cocoon and the long silk thread. The
+process for preparing the silk yarn consists, in short, of undoing all the work of the
+caterpillar in forming the cocoon, producing purified and soft thread for weaving.</TEXT>
+
+<PERGUNTA>Porque sentimos fadiga após a refeição?</PERGUNTA>
+<RESPOSTA>Devido à menor oxigenação do cérebro</RESPOSTA>
+<RESPOSTA>Porque perdemos muitas calorias no processo de mastigação</RESPOSTA>
+<RESPOSTA>Não sentimos fadiga. É um mito!</RESPOSTA>
+<CERTA>1</CERTA>
+<TEXTO>Quando o alimento chega ao estômago, aumenta a concentração do fluxo sanguíneo na
+região para que o processo de digestão seja facilitado. Com o aumento da circulação
+abdominal, o cérebro fica menos oxigenado e o sistema nervoso menos irrigado,
+provocando sonolência. Existem, também, ligações no cérebro que regulam o estado
+de alerta de acordo com o nível de saciedade. Quando comemos, o nível de glicose no
+organismo aumenta e inibe essas células, diminuindo o estado de alerta cerebral.</TEXTO>
+<QUESTION>Why do we feel fatigued after a meal?</QUESTION>
+<ANSWER>Due to lower oxygenation of the brain</ANSWER>
+<ANSWER>Because we have lost a lot of calories in the chewing process</ANSWER>
+<ANSWER>We do not feel fatigue. It's a myth!</ANSWER>
+<TEXT>When the food reaches the stomach, it increases the concentration of blood flow in the
+region so that the digestion process may be facilitated. With the increased abdominal
+circulation, the brain is less oxygenated and the nervous system is less irrigated, causing
+drowsiness. There are also connections in the brain that regulate the state of alert,
+according to the level of satiety. When we eat, the level of glucose in the body increases
+and inhibits these cells, thus decreasing brain alertness.</TEXT>
+
+
+<PERGUNTA>Quais destas hormonas controlam o processo digestivo?</PERGUNTA>
+<RESPOSTA>Colecistocinina, grelina e melatonina</RESPOSTA>
+<RESPOSTA>Gastrina, progesterona e adrenalina</RESPOSTA>
+<RESPOSTA>Gastrina, secretina e colecistocinina</RESPOSTA>
+<CERTA>3</CERTA>
+<TEXTO>O sistema digestivo é responsável pelo transporte e absorção de todos os nutrientes
+de que o corpo precisa para se desenvolver. Este processo é controlado por hormonas
+produzidas nas células da mucosa do estômago e intestino delgado. As principais
+hormonas responsáveis pela digestão dos alimentos são a gastrina, a secretina e a
+colecistocinina. Outras regulam o apetite, estimulando-o quando o estômago e intestino
+delgado estão vazios (grelina) ou reprimindo-o quando estão cheios (peptídeo YY).</TEXTO>
+<QUESTION>Which of these hormones control the digestive process?</QUESTION>
+<ANSWER>Cholecystokinin, ghrelin and melatonin</ANSWER>
+<ANSWER>Gastrin, progesterone and adrenaline</ANSWER>
+<ANSWER>Gastrin, secretin and cholecystokinin</ANSWER>
+<TEXT>The digestive system is responsible for the transport and absorption of all the nutrients
+which the body needs to develop. This process is controlled by hormones produced in
+the cells of the stomach mucosa and small intestine. The main hormones responsible for
+food digestion are gastrin, secretin and cholecystokinin. Others can regulate appetite by
+stimulating it when the stomach and small intestine are empty (ghrelin) or repressing it
+when they are full (peptide YY).</TEXT>
+
+
+
+</QUIZ>

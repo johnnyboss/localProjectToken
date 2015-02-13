@@ -1,0 +1,350 @@
+<QUIZ>
+	<TEMA>
+		<R>240</R>
+		<G>208</G>
+		<B>16</B>
+		<R>216</R>
+		<G>72</G>
+		<B>8</B>
+		<ID>quarto</ID>
+		<LEGENDA>Tecido</LEGENDA>
+		<LEGENDA>Algodão</LEGENDA>
+		<LEGENDA>Sono</LEGENDA>
+		<LEGENDA>Brincar</LEGENDA>
+		<LEGENDA>Vidro</LEGENDA>
+		<LEGENDA>Borracha</LEGENDA>
+		<LEGENDA>Internet</LEGENDA>
+		<LEGENDA>Tempo</LEGENDA>
+		<LEGENDA>Cobre</LEGENDA>
+		<LEGENDA>Alumínio</LEGENDA>
+		<LEGENDA>Ácaro</LEGENDA>
+		<LEGENDA>Brilhar no escuro</LEGENDA>
+
+		<LEGENDA>Fabric</LEGENDA>
+		<LEGENDA>Cotton</LEGENDA>
+		<LEGENDA>Sleep</LEGENDA>
+		<LEGENDA>Playing</LEGENDA>
+		<LEGENDA>Glass</LEGENDA>
+		<LEGENDA>Rubber</LEGENDA>
+		<LEGENDA>Internet</LEGENDA>
+		<LEGENDA>Time</LEGENDA>
+		<LEGENDA>Copper</LEGENDA>
+		<LEGENDA>Aluminium</LEGENDA>
+		<LEGENDA>Mite</LEGENDA>
+		<LEGENDA>Glowing in the dark</LEGENDA>
+
+	
+
+
+<PERGUNTA>Como se obtêm as fibras dos nossos tecidos?</PERGUNTA>
+<RESPOSTA>A partir do óxido de cálcio</RESPOSTA>
+<RESPOSTA>A partir da fibra de pirite</RESPOSTA>
+<RESPOSTA>A partir de vários produtos de origem animal, vegetal ou mineral</RESPOSTA>
+<CERTA>3</CERTA>
+<TEXTO>Os tecidos resultam da tecelagem de fibras naturais (vegetais, animais ou
+minerais) ou não-naturais (artificiais, sintéticas e inorgânicas). As fibras podem
+ser longas, como as de seda, ou curtas, como as de algodão ou lã. As fibras não-naturais são produzidas por processos industriais, a partir de polímeros naturais
+transformados por reações químicas (fibras artificiais), ou por polímeros obtidos a
+partir de derivados de petróleo ou carvão.</TEXTO>
+<QUESTION>How do we obtain the fibres for our fabrics?</QUESTION>
+		<ANSWER>From calcium oxide</ANSWER>
+		<ANSWER>From pyrite fibre</ANSWER>
+		<ANSWER>From various animal, plant or mineral products</ANSWER>
+<TEXT>Fabrics result from the weaving of natural (plant, animal or mineral) or non-natural (artificial, synthetic and inorganic) fibres. Fibres may be long, such as silk,
+or short, such as cotton or wool. Non-natural fibres are produced by industrial
+processes, from natural polymers processed by chemical reactions (artificial
+fibres) or polymers derived from petroleum or coal.
+</TEXT>
+
+
+<PERGUNTA>O algodão utilizado na almofada obtém-se a partir do...</PERGUNTA>
+<RESPOSTA>algodoeiro</RESPOSTA>
+<RESPOSTA>amieiro</RESPOSTA>
+<RESPOSTA>pulgão-do-algodão</RESPOSTA>
+<CERTA>1</CERTA>
+<TEXTO>O algodão é uma fibra branca composta maioritariamente por celulose que se obtém a
+partir dos frutos de plantas do género iiiGossypium, os vulgarmente designados algodoeiros.
+Das quatro espécies cultivadas, a mais importante é a iiiGossypium iiihirsutum. Cultivado em
+cerca de 100 países, o algodão é uma das culturas de maior produção global e utiliza cerca
+de 2,5% da terra arável mundial. É utilizado sobretudo no fabrico de tecidos, usados em
+vestuário e numa variedade de outros fins.</TEXTO>
+<QUESTION>The cotton used in the pillow is obtained from...</QUESTION>
+	<ANSWER>cotton plant</ANSWER>
+		<ANSWER>alder tree</ANSWER>
+		<ANSWER>cotton aphid</ANSWER>
+		<TEXT>Cotton is a white fibre composed mainly of cellulose, which is obtained from the fruits of
+plants of the genus iiiGossypium, commonly named cotton plant. Of the four cultivated
+species, the most important is the iiiGossypium iiihirsutum. Grown in about 100 countries,
+cotton is one of the largest global crop productions and uses approximately 2.5% of global
+arable land. It is mainly used in the manufacture of fabrics for clothing and for a variety of
+other purposes.</TEXT>
+
+Sono
+
+<PERGUNTA>Em que condições é produzida a melatonina, a hormona que
+provoca o sono?</PERGUNTA>
+<RESPOSTA>Presença de uma cama</RESPOSTA>	
+<RESPOSTA>Ausência de luz</RESPOSTA>
+<RESPOSTA>Aumento de temperatura</RESPOSTA>	
+<CERTA>2</CERTA>
+<TEXTO>A necessidade de dormir depende da quantidade de melatonina segregada pela glândula
+pineal, localizada no cérebro. A produção desta hormona está relacionada com a luz.
+Quando esta incide na retina, as ligações neuronais levam a informação até à glândula
+pineal inibindo a sua produção. Pelo contrário, à noite, quando os níveis de luz diminuem,
+a taxa de produção de melatonina aumenta, produzindo a sensação de sono. Estas
+variações na concentração da hormona são regulares, criando ciclos diários, designados
+por ritmos circadianos.</TEXTO>
+<QUESTION>Under what conditions is melatonin, the hormone that causes
+sleep, produced?</QUESTION>
+	<ANSWER>The presence of a bed</ANSWER>
+		<ANSWER>The absence of light</ANSWER>
+		<ANSWER>A temperature increase</ANSWER>
+		<TEXT>The need for sleep depends on the amount of melatonin secreted by the pineal gland,
+located in the brain. The production of this hormone is associated with light. When it
+focuses on the retina, neuronal connections send the information to the pineal gland, thus
+inhibiting its production. In contrast, at night, when light levels are reduced, the rate of
+melatonin production increases, thus producing the sensation of sleep. These variations in
+the hormone concentration are regular, thus creating daily cycles, designated as circadian
+rhythms.</TEXT>
+
+Brincar
+
+<PERGUNTA>Porque brincam as crianças?</PERGUNTA>
+<RESPOSTA>Sobretudo para passar o tempo</RESPOSTA>	
+<RESPOSTA>Sobretudo para aprender e estabelecer relações sociais</RESPOSTA>	 (certa)
+<RESPOSTA>Sobretudo para reviver experiências passadas</RESPOSTA>	
+<CERTA>2</CERTA>
+<TEXTO>O ato de brincar é uma forma de estabelecer e controlar as interações sociais e um
+poderoso meio de aprendizagem. Apesar de ser um fenómeno característico da infância,
+não é específico à idade, nem ao ser humano, sendo partilhado com outras espécies. A
+brincadeira não é apenas diversão, sendo fundamental no desenvolvimento emocional,
+cognitivo e social. Brincar sem qualquer objetivo é essencial; não importa apenas o
+resultado desta atividade mas sim a própria ação.</TEXTO>
+<QUESTION>Why do children play?</QUESTION>
+	<ANSWER>Mostly to pass the time</ANSWER>
+		<ANSWER>Mostly to learn and establish social relationships</ANSWER>
+		<ANSWER>Mostly to relive past experiences</ANSWER>
+		<TEXT>The act of playing is a way to establish and manage social interactions and also a powerful
+learning resource. Although it is a typical phenomenon of childhood, is not specific to age
+nor the human being, thus being shared with other species. Playing is not only fun but also
+instrumental in emotional, cognitive and social development. Playing without any goal
+is essential; the result of this activity is of little importance; it is the action itself which is
+important.</TEXT>
+
+
+<PERGUNTA>O mineral que constitui a principal matéria-prima com que se
+fabrica o vidro pode ser explorado a partir de...</PERGUNTA>
+<RESPOSTA>rochas como o granito, o arenito ou a areia de praias ou rios</RESPOSTA> (certa)
+<RESPOSTA>ilhas oceânicas de composição basáltica</RESPOSTA>
+<RESPOSTA>rochas da Marinha Grande</RESPOSTA>
+<CERTA>1</CERTA>
+<TEXTO>O vidro é um material constituído por aproximadamente 62% de sílica (lll:SiO:2:), 14% de carbonato de sódio (lll:Na:2:CO:3:), 11%  de carbonatos de cálcio e magnésio (lll:CaCO:3 e
+lll:CaMg:(:CO:3:):2:) e 13% de outros aditivos variados. Estes produtos são fundidos a cerca
+de 1400°C, conferindo, após modelação e arrefecimento, transparência, dureza e
+impermeabilização aos vidros. A sílica é o composto químico mais comum na Terra, sendo
+o quartzo um mineral composto exclusivamente por sílica. Trata-se de um constituinte
+abundante em rochas como o granito, o arenito ou as areias de rio e praia em todo o
+mundo.</TEXTO>
+<QUESTION>The mineral, which is the main raw material with which glass is
+produced, may be extracted from...</QUESTION>
+	<ANSWER>rocks such as granite, sandstone or beach or river sands</ANSWER>
+		<ANSWER>basaltic oceanic islands</ANSWER>
+		<ANSWER>rocks from Marinha Grande (city)</ANSWER>
+		<TEXT>Glass is a material consisting of approximately 62% silica (lll:SiO:2:), 14% sodium carbonate
+(lll:Na:2:CO:3:), 11% calcium carbonate and magnesium carbonate (lll:CaCO:3 and lll:CaMg:(:CO:3:):2:) 
+and 13% of other varied additives. These products are melted at about 1400°C, which,
+after moulding and cooling, provides glass with its transparency, hardness and waterproof
+sealing. Silica is the most common chemical compound on Earth, and quartz is a mineral
+composed exclusively of silica. It is an abundant constituent in rocks such as granite,
+sandstone or beach and river sands around the world.</TEXT>
+
+Borracha
+
+<PERGUNTA>Certos brinquedos são fabricados com borracha natural,
+produzida a partir do látex. Qual destas matérias-primas está na
+origem do látex?</PERGUNTA>
+<RESPOSTA>Sisal</RESPOSTA>
+<RESPOSTA>Argila</RESPOSTA>
+<RESPOSTA>Seringueira</RESPOSTA> (certa)
+<CERTA>3</CERTA>
+<TEXTO>A borracha natural obtém-se por coagulação do látex com ácidos orgânicos. A seringueira
+(iiiHevea iiibrasiliensis) é a principal matéria-prima vegetal utilizada na sua produção. Embora
+a borracha sintética, produzida a partir do petróleo, seja quimicamente semelhante à
+borracha natural, a sua maior toxicidade torna-a menos adequada para certos fins. Os
+indígenas do Haiti já utilizavam borracha virgem quando o primeiro europeu tomou
+contacto com este material (Cristóvão Colombo, 1493 - 97).</TEXTO>
+<QUESTION>Some toys are manufactured with natural rubber, produced from
+latex. Which of these raw materials is at the origin of latex?</QUESTION>
+	<ANSWER>iiiAgave iiisisalana</ANSWER>
+		<ANSWER>Clay</ANSWER>
+		<ANSWER>iiiHevea iiibrasiliensis</ANSWER>
+		<TEXT>Natural rubber is obtained by coagulating latex with organic acids. The rubber tree (iiiHevea
+iiibrasiliensis) is the main vegetable raw material used in its production. Although synthetic
+rubber, which is produced from petroleum, is chemically similar to natural rubber, its
+greater toxicity makes it less suitable for certain purposes. The indigenous people of Haiti
+already used virgin rubber when the first European came into contact with this material
+(Columbus, 1493 - 97).</TEXT>
+
+Internet
+
+<PERGUNTA>Ninguém é proprietário da internet! No entanto, existem
+protocolos que definem como a utilizamos. Como se chamam?</PERGUNTA>
+<RESPOSTA>NAP e Backbone</RESPOSTA>	
+<RESPOSTA>POP e IP</RESPOSTA>	
+<RESPOSTA>TCP e IP</RESPOSTA>
+<CERTA>3</CERTA>
+<TEXTO>A internet é composta por dois elementos principais: iiihardware e protocolos. O iiihardware
+inclui os componentes físicos do sistema, desde os cabos que carregam iiiterabytes de
+informação por segundo, ao dispositivo usado para aceder à rede. Os protocolos são o
+conjunto de regras que as máquinas seguem para completar tarefas, fornecendo o método
+e língua comum para transmissão de dados. Os principais são o protocolo de controlo de
+transmissão (TCP) e o protocolo de internet (IP). Estes protocolos definem o modo como a
+informação é transmitida.</TEXTO>
+<QUESTION>Nobody owns the internet! However, there are protocols which
+define how we use it. What are their names?</QUESTION>
+	<ANSWER>NAP and Backbone</ANSWER>
+		<ANSWER>POP and IP</ANSWER>
+		<ANSWER>TCP and IP</ANSWER>
+		<TEXT>The Internet consists of two main elements: hardware and protocols. Hardware includes
+the physical components of the system, from the cables that carry terabytes of information
+per second to the device used to access the network. Protocols are the set of rules that
+machines follow to complete the tasks, providing a common method and language for data
+transmission. The main ones are the transmission control protocol (TCP) and the internet
+protocol (IP). These protocols define how information is transmitted.</TEXT>
+
+Tempo
+
+<PERGUNTA>Imagine dois gémeos, um dos quais parte numa viagem
+intergaláctica até uma estrela distante. Ao regressar à Terra, o
+viajante encontra-se com o seu irmão gémeo e o que vê?</PERGUNTA>
+<RESPOSTA>O irmão gémeo com a mesma idade</RESPOSTA>	
+<RESPOSTA>O irmão gémeo mais velho do que ele</RESPOSTA>	
+<RESPOSTA>O irmão gémeo mais novo do que ele</RESPOSTA>	
+<CERTA>2</CERTA>
+<TEXTO>O tempo é relativo! Devido à dilatação do tempo prevista pela teoria da relatividade
+restrita de Einstein, uma pessoa viajando a velocidades próximas da velocidade da luz
+experiencia a passagem do tempo de uma forma mais lenta do que outro em repouso na
+Terra, quando medido no referencial inercial da Terra. Da mesma forma, o gémeo viajante
+pode afirmar que o tempo corre mais rapidamente para o seu irmão em repouso na Terra
+quando medido dentro da nave. Este é conhecido como o paradoxo dos gémeos.</TEXTO>
+<QUESTION>Imagine two twins, one of whom embarks on an intergalactic
+journey to a distant star. Upon returning to Earth, the traveller
+meets with his twin brother and what does he see?</QUESTION>
+	<ANSWER>The twin brother with the same age as him</ANSWER>
+		<ANSWER>The twin brother is older than him</ANSWER>
+		<ANSWER>The twin brother is younger than him</ANSWER>
+		<TEXT>Time is relative! Due to the time dilation predicted by Einstein's Special Theory of
+Relativity, a person travelling at speeds approaching the speed of light experiences the
+passage of time more slowly than another person standing on the face of the Earth, as
+measured in the inertial reference frame of the Earth. Likewise, the travelling twin brother
+can state that time runs faster for his brother standing on the face of the Earth when
+measured inside the ship. This is known as the paradox of the twins.</TEXT>
+
+
+Cobre
+
+<PERGUNTA>A eletricidade chega às nossas casas através de fios condutores de
+cobre. O mineral que constitui o principal minério de cobre é a...</PERGUNTA>
+A. <RESPOSTA>pirite</RESPOSTA>
+B. <RESPOSTA>calcopirite</RESPOSTA> (certa)
+C. <RESPOSTA>arsenopirite</RESPOSTA>
+<CERTA>2</CERTA>
+<TEXTO>A calcopirite ("ouro dos tolos"), um sulfureto de cobre e ferro, é o mineral de onde se
+extrai a maior parte do cobre hoje produzido. O principal produtor mundial é o Chile.
+O cobre é um elemento químico metálico que se destaca por elevada maleabilidade,
+condutibilidade elétrica e térmica. "Cobre" deriva do latim iiiCuprum que significa Chipre,
+já que grande parte do cobre utilizado pelos Romanos provinha desta ilha. As aplicações
+do cobre são imensas (cablagens, moedas, etc.), sendo considerado um metal base para a
+humanidade.</TEXTO>
+<QUESTION>The electricity reaches our homes through copper wires. The
+mineral that is the main copper ore is...</QUESTION>
+	<ANSWER>pyrite</ANSWER>
+		<ANSWER>chalcopyrite</ANSWER>
+		<ANSWER>arsenopyrite</ANSWER>
+		<TEXT>Chalcopyrite ("fool's gold"), a sulphide of copper and iron, is the mineral where most of
+the copper produced today comes from. The world's leading producer is Chile. Copper
+is a metal chemical element that stands out for its high ductility, electrical and thermal
+conductivity. "Copper" derives from the Latin iiiCuprum meaning Cyprus, since much of the
+copper used by the Romans came from this island. Copper's applications are immense
+(wiring, coins, etc.), as it is considered a base metal for humanity.</TEXT>
+
+Alumínio
+
+<PERGUNTA>O alumínio é um dos metais mais utilizados nos nossos dias.
+Estará a exploração deste metal em risco?</PERGUNTA>
+<RESPOSTA>Sim, porque se trata de um metal raro</RESPOSTA>
+<RESPOSTA>Não, porque se trata de metal muito abundante na crosta terrestre</RESPOSTA>
+<RESPOSTA>Não, porque se trata de um metal leve</RESPOSTA>
+<CERTA>2</CERTA>
+<TEXTO>Depois do oxigénio e do silício, o alumínio é o elemento mais abundante da crosta
+terrestre. A sua baixa densidade, elevada maleabilidade e resistência à corrosão tornam-no ideal em muitas aplicações. Devido à sua grande afinidade com o oxigénio, raramente
+ocorre na forma elementar, mas sim na forma de óxidos e hidróxidos de alumínio. É
+muito insolúvel em condições naturais, pelo que a sua exploração se associa a minérios
+de bauxite, uma rocha sedimentar residual formada por misturas de óxidos, hidróxidos e
+silicatos de alumínio.</TEXTO>
+<QUESTION>Aluminium is one of the most used metals nowadays. Is the
+mining of this metal at risk?</QUESTION>
+	<ANSWER>Yes, because it is a rare metal</ANSWER>
+		<ANSWER>No, because it is a very abundant metal in the earth's crust</ANSWER>
+		<ANSWER>No, because it is a light metal</ANSWER>
+		<TEXT>After oxygen and silicon, aluminium is the most abundant element in the earth's crust. Its
+low density, high ductility and resistance to corrosion make it ideal for many applications.
+Due to its great affinity with oxygen, it seldom occurs in elemental form, but rather in the
+form of aluminium oxides and hydroxides. It is highly insoluble under natural conditions,
+so its mining is associated with bauxite ores, a residual sedimentary rock composed of
+mixtures of aluminium oxides, hydroxides and silicates.</TEXT>
+
+
+Ácaros
+
+<PERGUNTA>De que se alimentam os ácaros que habitam nos colchões e roupas
+de cama?</PERGUNTA>
+<RESPOSTA>Algodão</RESPOSTA>	
+<RESPOSTA>Pele humana</RESPOSTA>	
+<RESPOSTA>Fibras sintéticas</RESPOSTA>	
+<CERTA>2</CERTA>
+<TEXTO>Ácaro é o nome comum de algumas espécies de artrópodes da subclasse Acari,
+pertencentes à classe dos aracnídeos. Os ácaros domésticos não transmitem doenças.
+Contudo, a exposição, sobretudo através das vias respiratórias, a certas proteínas que
+existem no seu corpo e aos seus excrementos pode gerar ou favorecer doenças alérgicas,
+como a rinite e a asma. Os ácaros alimentam-se, sobretudo, da pele que se vai libertando
+do nosso corpo por escamação e acumulando nas roupas da cama e colchões.</TEXTO>
+<QUESTION>What feeds the mites that live in mattresses and bed linen?</QUESTION>
+	<ANSWER>Cotton</ANSWER>
+		<ANSWER>Human skin</ANSWER>
+		<ANSWER>Synthetic fibres</ANSWER>
+		<TEXT>Mite is the common name of some species of arthropods from the subclass of the Acari,
+belonging to the class of arachnids. House dust mites do not transmit diseases. However,
+the exposure, mainly through the airways, to certain proteins in their bodies and to their
+excrements can cause or favour allergic diseases, such as rhinitis and asthma. Mites feed
+mainly on the skin that sheds from our bodies and accumulates on our bed linen and
+mattresses.</TEXT>
+
+Brilhar no escuro
+
+<PERGUNTA>Porque ficam a brilhar as estrelas coladas no roupeiro do meu
+quarto quando eu apago a luz?</PERGUNTA>
+<RESPOSTA>Porque contêm substâncias fosforescentes</RESPOSTA>
+<RESPOSTA>Porque contêm substâncias fluorescentes</RESPOSTA>	
+<RESPOSTA>Porque contêm substâncias incandescentes</RESPOSTA>	
+<CERTA>1</CERTA>
+<TEXTO>Algumas substâncias libertam energia sob a forma de luz visível após exposição a
+uma radiação. Alimentados pela radiação, os seus eletrões ficam excitados e passam
+a níveis superiores de energia. Quando regressam ao estado fundamental libertam a
+energia em excesso sob a forma de luz visível. Na fluorescência, a luz emitida é libertada
+imediatamente, enquanto na fosforescência a emissão ocorre lentamente mesmo após se
+extinguir a radiação incidente, razão pela qual as estrelas fosforescentes brilham apesar de
+apagarmos a luz.</TEXTO>
+<QUESTION>Why do the stars glued to my wardrobe shine when I turn out the
+light?</QUESTION>
+	<ANSWER>Because they contain phosphorescent substances</ANSWER>
+		<ANSWER>Because they contain fluorescent substances</ANSWER>
+		<ANSWER>Because they contain incandescent substances</ANSWER>
+		<TEXT>Some substances release energy in the form of visible light after the exposure to radiation.
+Fed by radiation, their electrons get excited and move up to higher levels of energy. When
+they fall back to a lower energy state again, they release the excess energy in the form of
+visible light. In fluorescence, light is immediately released, while in phosphorescence, the
+emission occurs slowly even after the incident radiation is extinguished, which is why
+phosphorescent stars glow despite the lights being turned out.</TEXT>
+
+</QUIZ>
