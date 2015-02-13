@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="..\..\..\addons\ofxGui\src\button.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="1775" topLine="48" />
+	</File>
+	<File name="..\..\..\addons\ofxGui\src\button.h" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="..\..\..\addons\ofxGui\src\graphPosition.cpp" open="0" top="0" tabpos="17">
+		<Cursor position="3456" topLine="82" />
+	</File>
+	<File name="..\..\..\addons\ofxGui\src\graphPosition.h" open="0" top="0" tabpos="12">
+		<Cursor position="1131" topLine="8" />
+	</File>
+	<File name="..\..\..\addons\ofxGui\src\keypad.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="3699" topLine="101" />
+	</File>
+	<File name="..\..\..\addons\ofxGui\src\keypad.h" open="0" top="0" tabpos="7">
+		<Cursor position="574" topLine="0" />
+	</File>
+	<File name="..\..\..\addons\ofxGui\src\label.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="..\..\..\addons\ofxGui\src\label.h" open="0" top="0" tabpos="7">
+		<Cursor position="580" topLine="0" />
+	</File>
+	<File name="..\..\..\addons\ofxGui\src\panel.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="573" topLine="94" />
+	</File>
+	<File name="..\..\..\addons\ofxGui\src\panel.h" open="0" top="0" tabpos="9">
+		<Cursor position="1136" topLine="11" />
+	</File>
+	<File name="..\..\..\addons\ofxGui\src\slider.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="2003" topLine="83" />
+	</File>
+	<File name="..\..\..\addons\ofxGui\src\slider.h" open="0" top="0" tabpos="8">
+		<Cursor position="823" topLine="0" />
+	</File>
+	<File name="..\..\..\addons\ofxNetwork\src\ofxTCPClient.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2965" topLine="0" />
+	</File>
+	<File name="..\..\..\addons\ofxNetwork\src\ofxTCPClient.h" open="0" top="0" tabpos="0">
+		<Cursor position="133" topLine="0" />
+	</File>
+	<File name="..\..\..\addons\ofxNetwork\src\ofxTCPServer.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\exitMenu.cpp" open="0" top="0" tabpos="24">
+		<Cursor position="862" topLine="1" />
+	</File>
+	<File name="src\exitMenu.h" open="0" top="0" tabpos="25">
+		<Cursor position="501" topLine="0" />
+	</File>
+	<File name="src\invertPedals.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="527" topLine="12" />
+	</File>
+	<File name="src\invertPedals.h" open="0" top="0" tabpos="0">
+		<Cursor position="543" topLine="0" />
+	</File>
+	<File name="src\invertServos.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="3380" topLine="64" />
+	</File>
+	<File name="src\invertServos.h" open="0" top="0" tabpos="19">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\joystickCalib.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="1700" topLine="0" />
+	</File>
+	<File name="src\joystickCalib.h" open="0" top="0" tabpos="16">
+		<Cursor position="536" topLine="0" />
+	</File>
+	<File name="src\main.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="233" topLine="0" />
+	</File>
+	<File name="src\panel1.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="5225" topLine="113" />
+	</File>
+	<File name="src\panel1.h" open="1" top="0" tabpos="2">
+		<Cursor position="776" topLine="0" />
+	</File>
+	<File name="src\panel2.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="5394" topLine="114" />
+	</File>
+	<File name="src\panel2.h" open="0" top="0" tabpos="4">
+		<Cursor position="757" topLine="0" />
+	</File>
+	<File name="src\servoTrim.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="7227" topLine="182" />
+	</File>
+	<File name="src\servoTrim.h" open="0" top="0" tabpos="12">
+		<Cursor position="658" topLine="0" />
+	</File>
+	<File name="src\testApp.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="6276" topLine="198" />
+	</File>
+	<File name="src\testApp.h" open="0" top="0" tabpos="12">
+		<Cursor position="917" topLine="14" />
+	</File>
+	<File name="src\top.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="7326" topLine="219" />
+	</File>
+	<File name="src\top.h" open="0" top="0" tabpos="0">
+		<Cursor position="807" topLine="2" />
+	</File>
+</CodeBlocks_layout_file>
