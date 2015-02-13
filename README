@@ -1,0 +1,4 @@
+LocalProject is the project for the code exercise
+Monarch_drivers contains the source code I developed to interact and control with the robot i was developing in ROS
+Omnican contains the project and data of a project I did. The goal was to control two cameras using that interface.
+Quiz was another project i did. It had 4 different setups. It’s installed on a museum. Each app poses a set of questions related to the subject. Each question would light up a specific light on a small scale model. The DB for the questions, texts and which was the right answer is in the xml files. 
