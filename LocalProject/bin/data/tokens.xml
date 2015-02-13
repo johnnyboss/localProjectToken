@@ -1,0 +1,88 @@
+<TOKEN>
+	<NAME>	
+		general happiness
+	</NAME>
+	<REF>
+		happy
+	</REF>
+	<VALUE>
+		0
+	</VALUE>
+</TOKEN>
+<TOKEN>
+	<NAME>
+		safety
+	</NAME>
+	<REF>
+		safety
+	</REF>
+	<VALUE>
+		0
+	</VALUE>
+</TOKEN>
+<TOKEN>
+	<REF>
+		education
+	</REF>
+	<NAME>
+		education level
+	</NAME>
+	<VALUE>
+		0
+	</VALUE>
+</TOKEN>
+<TOKEN>
+	<REF>
+		arts
+	</REF>
+	<NAME>
+		community art
+	</NAME>
+	<VALUE>
+		0
+	</VALUE>
+</TOKEN>
+<TOKEN>
+	<REF>
+		employment
+	</REF>
+	<NAME>
+		employment rate
+	</NAME>
+	<VALUE>
+		0
+	</VALUE>
+</TOKEN>
+<TOKEN>
+	<REF>
+		tax
+	</REF>
+	<NAME>
+		income tax
+	</NAME>
+	<VALUE>
+		0
+	</VALUE>
+</TOKEN>
+<TOKEN>
+	<REF>
+		health
+	</REF>
+	<NAME>
+		public health
+	</NAME>
+	<VALUE>
+		0
+	</VALUE>
+</TOKEN>
+<TOKEN>
+	<REF>
+		entrepreneurship
+	</REF>
+	<NAME>
+		entrepreneurship
+	</NAME>
+	<VALUE>
+		0
+	</VALUE>
+</TOKEN>

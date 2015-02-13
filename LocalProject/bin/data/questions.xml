@@ -1,0 +1,256 @@
+<QUESTION>
+	<SHORT_NAME>
+		Police
+	</SHORT_NAME>
+	<TEXT>
+		Should we build more police stations?
+	</TEXT>
+	<RELATIONS>
+		<T_REF>happy</T_REF>		
+		<YES>5</YES>
+		<NO>-3</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>safety</T_REF>		
+		<YES>5</YES>
+		<NO>-7</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>employment</T_REF>
+		<YES>2</YES>
+		<NO>0</NO>
+	</RELATIONS>
+</QUESTION>
+<QUESTION>
+	<SHORT_NAME>
+		Fire
+	</SHORT_NAME>
+	<TEXT>
+		Should we build more fire stations?
+	</TEXT>
+	<RELATIONS>
+		<T_REF>safety</T_REF>		
+		<YES>3</YES>
+		<NO>-4</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>health</T_REF>
+		<YES>3</YES>
+		<NO>-7</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>employment</T_REF>		
+		<YES>3</YES>
+		<NO>0</NO>
+	</RELATIONS>
+</QUESTION>
+<QUESTION>
+	<SHORT_NAME>
+		Hospitals
+	</SHORT_NAME>
+	<TEXT>
+		Should we build more hospitals?
+	</TEXT>
+	<RELATIONS>
+		<T_REF>health</T_REF>		
+		<YES>3</YES>
+		<NO>-7</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>employment</T_REF>
+		<YES>2</YES>
+		<NO>0</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>happy</T_REF>		
+		<YES>2</YES>
+		<NO>-3</NO>
+	</RELATIONS>
+</QUESTION>
+<QUESTION>
+	<SHORT_NAME>
+		Schools
+	</SHORT_NAME>
+	<TEXT>
+		Should we build more schools?
+	</TEXT>
+	<RELATIONS>
+		<T_REF>happy</T_REF>		
+		<YES>2</YES>
+		<NO>-3</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>education</T_REF>
+		<YES>3</YES>
+		<NO>-7</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>tax</T_REF>		
+		<YES>2</YES>
+		<NO>-5</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>arts</T_REF>		
+		<YES>-2</YES>
+		<NO>0</NO>
+	</RELATIONS>
+</QUESTION>
+<QUESTION>
+	<SHORT_NAME>
+		Universities
+	</SHORT_NAME>
+	<TEXT>
+		Should we build more universities?
+	</TEXT>
+	<RELATIONS>
+		<T_REF>education</T_REF>		
+		<YES>5</YES>
+		<NO>-4</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>tax</T_REF>
+		<YES>5</YES>
+		<NO>-8</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>entrepreneurship</T_REF>		
+		<YES>5</YES>
+		<NO>-7</NO>
+	</RELATIONS>
+</QUESTION>
+<QUESTION>
+	<SHORT_NAME>
+		Arts
+	</SHORT_NAME>
+	<TEXT>
+		Should we build more arts universities?
+	</TEXT>
+	<RELATIONS>
+		<T_REF>arts</T_REF>		
+		<YES>8</YES>
+		<NO>-7</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>entrepreneurship</T_REF>
+		<YES>3</YES>
+		<NO>-2</NO>
+	</RELATIONS>
+</QUESTION>
+<QUESTION>
+	<SHORT_NAME>
+		sports
+	</SHORT_NAME>
+	<TEXT>
+		Should we build more sport facilities?
+	</TEXT>
+	<RELATIONS>
+		<T_REF>safety</T_REF>
+		<YES>5</YES>
+		<NO>-2</NO>
+		<T_REF>happy</T_REF>		
+		<YES>3</YES>
+		<NO>-7</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>health</T_REF>
+		<YES>5</YES>
+		<NO>-7</NO>
+	</RELATIONS>
+</QUESTION>
+<QUESTION>
+	<SHORT_NAME>
+		transports
+	</SHORT_NAME>
+	<TEXT>
+		Should we build more transportation systems?
+	</TEXT>
+	<RELATIONS>
+		<T_REF>happy</T_REF>		
+		<YES>1</YES>
+		<NO>-4</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>tax</T_REF>
+		<YES>2</YES>
+		<NO>-4</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>entrepreneurship</T_REF>		
+		<YES>2</YES>
+		<NO>-4</NO>
+	</RELATIONS>
+</QUESTION>
+<QUESTION>
+	<SHORT_NAME>
+		Gardens
+	</SHORT_NAME>
+	<TEXT>
+		Should we build more gardens and parks?
+	</TEXT>
+	<RELATIONS>
+		<T_REF>happy</T_REF>		
+		<YES>5</YES>
+		<NO>-7</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>health</T_REF>
+		<YES>5</YES>
+		<NO>-7</NO>
+	</RELATIONS>
+</QUESTION>
+<QUESTION>
+	<SHORT_NAME>
+		Bars
+	</SHORT_NAME>
+	<TEXT>
+		Should we build more bars?
+	</TEXT>
+	<RELATIONS>
+		<T_REF>safety</T_REF>		
+		<YES>-2</YES>
+		<NO>3</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>tax</T_REF>
+		<YES>5</YES>
+		<NO>-7</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>health</T_REF>		
+		<YES>-2</YES>
+		<NO>0</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>employment</T_REF>		
+		<YES>3</YES>
+		<NO>-4</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>happy</T_REF>		
+		<YES>3</YES>
+		<NO>-4</NO>
+	</RELATIONS>
+</QUESTION>
+<QUESTION>
+	<SHORT_NAME>
+		shops
+	</SHORT_NAME>
+	<TEXT>
+		Should we build more local shops?
+	</TEXT>
+	<RELATIONS>
+		<T_REF>tax</T_REF>		
+		<YES>5</YES>
+		<NO>-4</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>entrepreneurship</T_REF>
+		<YES>2</YES>
+		<NO>-3</NO>
+	</RELATIONS>
+	<RELATIONS>
+		<T_REF>employment</T_REF>		
+		<YES>3</YES>
+		<NO>-4</NO>
+	</RELATIONS>
+</QUESTION>
